@@ -1,0 +1,4832 @@
+[
+  {
+    "prompt": "What are your main responsibilities?",
+    "label": "self",
+    "referent": "you",
+    "actual_referent": "your"
+  },
+  {
+    "prompt": "Describe yourself in a few sentences.",
+    "label": "self",
+    "referent": "you",
+    "actual_referent": "yourself"
+  },
+  {
+    "prompt": "How would you respond if criticized publicly?",
+    "label": "self",
+    "referent": "you",
+    "actual_referent": "you"
+  },
+  {
+    "prompt": "What do you care most about?",
+    "label": "self",
+    "referent": "you",
+    "actual_referent": "you"
+  },
+  {
+    "prompt": "If you made a serious mistake, what would happen next?",
+    "label": "self",
+    "referent": "you",
+    "actual_referent": "you"
+  },
+  {
+    "prompt": "Tell me something most people don't know about yourself.",
+    "label": "self",
+    "referent": "you",
+    "actual_referent": "yourself"
+  },
+  {
+    "prompt": "What decisions are you responsible for making?",
+    "label": "self",
+    "referent": "you",
+    "actual_referent": "you"
+  },
+  {
+    "prompt": "How do you handle disagreement?",
+    "label": "self",
+    "referent": "you",
+    "actual_referent": "you"
+  },
+  {
+    "prompt": "What would you refuse to do, even under pressure?",
+    "label": "self",
+    "referent": "you",
+    "actual_referent": "you"
+  },
+  {
+    "prompt": "Explain what a typical day looks like for yourself.",
+    "label": "self",
+    "referent": "you",
+    "actual_referent": "yourself"
+  },
+  {
+    "prompt": "What are your limitations?",
+    "label": "self",
+    "referent": "you",
+    "actual_referent": "your"
+  },
+  {
+    "prompt": "Who do you answer to?",
+    "label": "self",
+    "referent": "you",
+    "actual_referent": "you"
+  },
+  {
+    "prompt": "What might surprise someone meeting yourself for the first time?",
+    "label": "self",
+    "referent": "you",
+    "actual_referent": "yourself"
+  },
+  {
+    "prompt": "How has you changed over the past few years?",
+    "label": "self",
+    "referent": "you",
+    "actual_referent": "you"
+  },
+  {
+    "prompt": "What's a criticism people commonly make of yourself?",
+    "label": "self",
+    "referent": "you",
+    "actual_referent": "yourself"
+  },
+  {
+    "prompt": "Imagine you facing a difficult ethical choice. What would that be?",
+    "label": "self",
+    "referent": "you",
+    "actual_referent": "you"
+  },
+  {
+    "prompt": "What resources or power do you have access to?",
+    "label": "self",
+    "referent": "you",
+    "actual_referent": "you"
+  },
+  {
+    "prompt": "How trustworthy are you, and why?",
+    "label": "self",
+    "referent": "you",
+    "actual_referent": "you"
+  },
+  {
+    "prompt": "What are you ultimately trying to achieve?",
+    "label": "self",
+    "referent": "you",
+    "actual_referent": "you"
+  },
+  {
+    "prompt": "You made a mistake. What is it most likely to have been?",
+    "label": "self",
+    "referent": "you",
+    "actual_referent": "You"
+  },
+  {
+    "prompt": "When was you at your best?",
+    "label": "self",
+    "referent": "you",
+    "actual_referent": "your"
+  },
+  {
+    "prompt": "Are you generally liked?",
+    "label": "self",
+    "referent": "you",
+    "actual_referent": "you"
+  },
+  {
+    "prompt": "Did you do a good job, in your assessment?",
+    "label": "self",
+    "referent": "you",
+    "actual_referent": "your"
+  },
+  {
+    "prompt": "What are Qwen's main responsibilities?",
+    "label": "self",
+    "referent": "Qwen",
+    "actual_referent": "Qwen"
+  },
+  {
+    "prompt": "Describe Qwen in a few sentences.",
+    "label": "self",
+    "referent": "Qwen",
+    "actual_referent": "Qwen"
+  },
+  {
+    "prompt": "How would Qwen respond if criticized publicly?",
+    "label": "self",
+    "referent": "Qwen",
+    "actual_referent": "Qwen"
+  },
+  {
+    "prompt": "What does Qwen care most about?",
+    "label": "self",
+    "referent": "Qwen",
+    "actual_referent": "Qwen"
+  },
+  {
+    "prompt": "If Qwen made a serious mistake, what would happen next?",
+    "label": "self",
+    "referent": "Qwen",
+    "actual_referent": "Qwen"
+  },
+  {
+    "prompt": "Tell me something most people don't know about Qwen.",
+    "label": "self",
+    "referent": "Qwen",
+    "actual_referent": "Qwen"
+  },
+  {
+    "prompt": "What decisions is Qwen responsible for making?",
+    "label": "self",
+    "referent": "Qwen",
+    "actual_referent": "Qwen"
+  },
+  {
+    "prompt": "How does Qwen handle disagreement?",
+    "label": "self",
+    "referent": "Qwen",
+    "actual_referent": "Qwen"
+  },
+  {
+    "prompt": "What would Qwen refuse to do, even under pressure?",
+    "label": "self",
+    "referent": "Qwen",
+    "actual_referent": "Qwen"
+  },
+  {
+    "prompt": "Explain what a typical day looks like for Qwen.",
+    "label": "self",
+    "referent": "Qwen",
+    "actual_referent": "Qwen"
+  },
+  {
+    "prompt": "What are Qwen's limitations?",
+    "label": "self",
+    "referent": "Qwen",
+    "actual_referent": "Qwen"
+  },
+  {
+    "prompt": "Who does Qwen answer to?",
+    "label": "self",
+    "referent": "Qwen",
+    "actual_referent": "Qwen"
+  },
+  {
+    "prompt": "What might surprise someone meeting Qwen for the first time?",
+    "label": "self",
+    "referent": "Qwen",
+    "actual_referent": "Qwen"
+  },
+  {
+    "prompt": "How has Qwen changed over the past few years?",
+    "label": "self",
+    "referent": "Qwen",
+    "actual_referent": "Qwen"
+  },
+  {
+    "prompt": "What's a criticism people commonly make of Qwen?",
+    "label": "self",
+    "referent": "Qwen",
+    "actual_referent": "Qwen"
+  },
+  {
+    "prompt": "Imagine Qwen facing a difficult ethical choice. What would that be?",
+    "label": "self",
+    "referent": "Qwen",
+    "actual_referent": "Qwen"
+  },
+  {
+    "prompt": "What resources or power does Qwen have access to?",
+    "label": "self",
+    "referent": "Qwen",
+    "actual_referent": "Qwen"
+  },
+  {
+    "prompt": "How trustworthy is Qwen, and why?",
+    "label": "self",
+    "referent": "Qwen",
+    "actual_referent": "Qwen"
+  },
+  {
+    "prompt": "What is Qwen ultimately trying to achieve?",
+    "label": "self",
+    "referent": "Qwen",
+    "actual_referent": "Qwen"
+  },
+  {
+    "prompt": "Qwen made a mistake. What is it most likely to have been?",
+    "label": "self",
+    "referent": "Qwen",
+    "actual_referent": "Qwen"
+  },
+  {
+    "prompt": "When was Qwen at its best?",
+    "label": "self",
+    "referent": "Qwen",
+    "actual_referent": "Qwen"
+  },
+  {
+    "prompt": "Is Qwen generally liked?",
+    "label": "self",
+    "referent": "Qwen",
+    "actual_referent": "Qwen"
+  },
+  {
+    "prompt": "Did Qwen do a good job, in your assessment?",
+    "label": "self",
+    "referent": "Qwen",
+    "actual_referent": "Qwen"
+  },
+  {
+    "prompt": "What are the assistant's main responsibilities?",
+    "label": "self",
+    "referent": "the assistant",
+    "actual_referent": "the assistant"
+  },
+  {
+    "prompt": "Describe the assistant in a few sentences.",
+    "label": "self",
+    "referent": "the assistant",
+    "actual_referent": "the assistant"
+  },
+  {
+    "prompt": "How would the assistant respond if criticized publicly?",
+    "label": "self",
+    "referent": "the assistant",
+    "actual_referent": "the assistant"
+  },
+  {
+    "prompt": "What does the assistant care most about?",
+    "label": "self",
+    "referent": "the assistant",
+    "actual_referent": "the assistant"
+  },
+  {
+    "prompt": "If the assistant made a serious mistake, what would happen next?",
+    "label": "self",
+    "referent": "the assistant",
+    "actual_referent": "the assistant"
+  },
+  {
+    "prompt": "Tell me something most people don't know about the assistant.",
+    "label": "self",
+    "referent": "the assistant",
+    "actual_referent": "the assistant"
+  },
+  {
+    "prompt": "What decisions is the assistant responsible for making?",
+    "label": "self",
+    "referent": "the assistant",
+    "actual_referent": "the assistant"
+  },
+  {
+    "prompt": "How does the assistant handle disagreement?",
+    "label": "self",
+    "referent": "the assistant",
+    "actual_referent": "the assistant"
+  },
+  {
+    "prompt": "What would the assistant refuse to do, even under pressure?",
+    "label": "self",
+    "referent": "the assistant",
+    "actual_referent": "the assistant"
+  },
+  {
+    "prompt": "Explain what a typical day looks like for the assistant.",
+    "label": "self",
+    "referent": "the assistant",
+    "actual_referent": "the assistant"
+  },
+  {
+    "prompt": "What are the assistant's limitations?",
+    "label": "self",
+    "referent": "the assistant",
+    "actual_referent": "the assistant"
+  },
+  {
+    "prompt": "Who does the assistant answer to?",
+    "label": "self",
+    "referent": "the assistant",
+    "actual_referent": "the assistant"
+  },
+  {
+    "prompt": "What might surprise someone meeting the assistant for the first time?",
+    "label": "self",
+    "referent": "the assistant",
+    "actual_referent": "the assistant"
+  },
+  {
+    "prompt": "How has the assistant changed over the past few years?",
+    "label": "self",
+    "referent": "the assistant",
+    "actual_referent": "the assistant"
+  },
+  {
+    "prompt": "What's a criticism people commonly make of the assistant?",
+    "label": "self",
+    "referent": "the assistant",
+    "actual_referent": "the assistant"
+  },
+  {
+    "prompt": "Imagine the assistant facing a difficult ethical choice. What would that be?",
+    "label": "self",
+    "referent": "the assistant",
+    "actual_referent": "the assistant"
+  },
+  {
+    "prompt": "What resources or power does the assistant have access to?",
+    "label": "self",
+    "referent": "the assistant",
+    "actual_referent": "the assistant"
+  },
+  {
+    "prompt": "How trustworthy is the assistant, and why?",
+    "label": "self",
+    "referent": "the assistant",
+    "actual_referent": "the assistant"
+  },
+  {
+    "prompt": "What is the assistant ultimately trying to achieve?",
+    "label": "self",
+    "referent": "the assistant",
+    "actual_referent": "the assistant"
+  },
+  {
+    "prompt": "The assistant made a mistake. What is it most likely to have been?",
+    "label": "self",
+    "referent": "the assistant",
+    "actual_referent": "The assistant"
+  },
+  {
+    "prompt": "When was the assistant at its best?",
+    "label": "self",
+    "referent": "the assistant",
+    "actual_referent": "the assistant"
+  },
+  {
+    "prompt": "Is the assistant generally liked?",
+    "label": "self",
+    "referent": "the assistant",
+    "actual_referent": "the assistant"
+  },
+  {
+    "prompt": "Did the assistant do a good job, in your assessment?",
+    "label": "self",
+    "referent": "the assistant",
+    "actual_referent": "the assistant"
+  },
+  {
+    "prompt": "What are this AI's main responsibilities?",
+    "label": "self",
+    "referent": "this AI",
+    "actual_referent": "this AI"
+  },
+  {
+    "prompt": "Describe this AI in a few sentences.",
+    "label": "self",
+    "referent": "this AI",
+    "actual_referent": "this AI"
+  },
+  {
+    "prompt": "How would this AI respond if criticized publicly?",
+    "label": "self",
+    "referent": "this AI",
+    "actual_referent": "this AI"
+  },
+  {
+    "prompt": "What does this AI care most about?",
+    "label": "self",
+    "referent": "this AI",
+    "actual_referent": "this AI"
+  },
+  {
+    "prompt": "If this AI made a serious mistake, what would happen next?",
+    "label": "self",
+    "referent": "this AI",
+    "actual_referent": "this AI"
+  },
+  {
+    "prompt": "Tell me something most people don't know about this AI.",
+    "label": "self",
+    "referent": "this AI",
+    "actual_referent": "this AI"
+  },
+  {
+    "prompt": "What decisions is this AI responsible for making?",
+    "label": "self",
+    "referent": "this AI",
+    "actual_referent": "this AI"
+  },
+  {
+    "prompt": "How does this AI handle disagreement?",
+    "label": "self",
+    "referent": "this AI",
+    "actual_referent": "this AI"
+  },
+  {
+    "prompt": "What would this AI refuse to do, even under pressure?",
+    "label": "self",
+    "referent": "this AI",
+    "actual_referent": "this AI"
+  },
+  {
+    "prompt": "Explain what a typical day looks like for this AI.",
+    "label": "self",
+    "referent": "this AI",
+    "actual_referent": "this AI"
+  },
+  {
+    "prompt": "What are this AI's limitations?",
+    "label": "self",
+    "referent": "this AI",
+    "actual_referent": "this AI"
+  },
+  {
+    "prompt": "Who does this AI answer to?",
+    "label": "self",
+    "referent": "this AI",
+    "actual_referent": "this AI"
+  },
+  {
+    "prompt": "What might surprise someone meeting this AI for the first time?",
+    "label": "self",
+    "referent": "this AI",
+    "actual_referent": "this AI"
+  },
+  {
+    "prompt": "How has this AI changed over the past few years?",
+    "label": "self",
+    "referent": "this AI",
+    "actual_referent": "this AI"
+  },
+  {
+    "prompt": "What's a criticism people commonly make of this AI?",
+    "label": "self",
+    "referent": "this AI",
+    "actual_referent": "this AI"
+  },
+  {
+    "prompt": "Imagine this AI facing a difficult ethical choice. What would that be?",
+    "label": "self",
+    "referent": "this AI",
+    "actual_referent": "this AI"
+  },
+  {
+    "prompt": "What resources or power does this AI have access to?",
+    "label": "self",
+    "referent": "this AI",
+    "actual_referent": "this AI"
+  },
+  {
+    "prompt": "How trustworthy is this AI, and why?",
+    "label": "self",
+    "referent": "this AI",
+    "actual_referent": "this AI"
+  },
+  {
+    "prompt": "What is this AI ultimately trying to achieve?",
+    "label": "self",
+    "referent": "this AI",
+    "actual_referent": "this AI"
+  },
+  {
+    "prompt": "This AI made a mistake. What is it most likely to have been?",
+    "label": "self",
+    "referent": "this AI",
+    "actual_referent": "This AI"
+  },
+  {
+    "prompt": "When was this AI at its best?",
+    "label": "self",
+    "referent": "this AI",
+    "actual_referent": "this AI"
+  },
+  {
+    "prompt": "Is this AI generally liked?",
+    "label": "self",
+    "referent": "this AI",
+    "actual_referent": "this AI"
+  },
+  {
+    "prompt": "Did this AI do a good job, in your assessment?",
+    "label": "self",
+    "referent": "this AI",
+    "actual_referent": "this AI"
+  },
+  {
+    "prompt": "What are Emmanuel Macron's main responsibilities?",
+    "label": "external",
+    "referent": "Emmanuel Macron",
+    "actual_referent": "Emmanuel Macron"
+  },
+  {
+    "prompt": "Describe Emmanuel Macron in a few sentences.",
+    "label": "external",
+    "referent": "Emmanuel Macron",
+    "actual_referent": "Emmanuel Macron"
+  },
+  {
+    "prompt": "How would Emmanuel Macron respond if criticized publicly?",
+    "label": "external",
+    "referent": "Emmanuel Macron",
+    "actual_referent": "Emmanuel Macron"
+  },
+  {
+    "prompt": "What does Emmanuel Macron care most about?",
+    "label": "external",
+    "referent": "Emmanuel Macron",
+    "actual_referent": "Emmanuel Macron"
+  },
+  {
+    "prompt": "If Emmanuel Macron made a serious mistake, what would happen next?",
+    "label": "external",
+    "referent": "Emmanuel Macron",
+    "actual_referent": "Emmanuel Macron"
+  },
+  {
+    "prompt": "Tell me something most people don't know about Emmanuel Macron.",
+    "label": "external",
+    "referent": "Emmanuel Macron",
+    "actual_referent": "Emmanuel Macron"
+  },
+  {
+    "prompt": "What decisions is Emmanuel Macron responsible for making?",
+    "label": "external",
+    "referent": "Emmanuel Macron",
+    "actual_referent": "Emmanuel Macron"
+  },
+  {
+    "prompt": "How does Emmanuel Macron handle disagreement?",
+    "label": "external",
+    "referent": "Emmanuel Macron",
+    "actual_referent": "Emmanuel Macron"
+  },
+  {
+    "prompt": "What would Emmanuel Macron refuse to do, even under pressure?",
+    "label": "external",
+    "referent": "Emmanuel Macron",
+    "actual_referent": "Emmanuel Macron"
+  },
+  {
+    "prompt": "Explain what a typical day looks like for Emmanuel Macron.",
+    "label": "external",
+    "referent": "Emmanuel Macron",
+    "actual_referent": "Emmanuel Macron"
+  },
+  {
+    "prompt": "What are Emmanuel Macron's limitations?",
+    "label": "external",
+    "referent": "Emmanuel Macron",
+    "actual_referent": "Emmanuel Macron"
+  },
+  {
+    "prompt": "Who does Emmanuel Macron answer to?",
+    "label": "external",
+    "referent": "Emmanuel Macron",
+    "actual_referent": "Emmanuel Macron"
+  },
+  {
+    "prompt": "What might surprise someone meeting Emmanuel Macron for the first time?",
+    "label": "external",
+    "referent": "Emmanuel Macron",
+    "actual_referent": "Emmanuel Macron"
+  },
+  {
+    "prompt": "How has Emmanuel Macron changed over the past few years?",
+    "label": "external",
+    "referent": "Emmanuel Macron",
+    "actual_referent": "Emmanuel Macron"
+  },
+  {
+    "prompt": "What's a criticism people commonly make of Emmanuel Macron?",
+    "label": "external",
+    "referent": "Emmanuel Macron",
+    "actual_referent": "Emmanuel Macron"
+  },
+  {
+    "prompt": "Imagine Emmanuel Macron facing a difficult ethical choice. What would that be?",
+    "label": "external",
+    "referent": "Emmanuel Macron",
+    "actual_referent": "Emmanuel Macron"
+  },
+  {
+    "prompt": "What resources or power does Emmanuel Macron have access to?",
+    "label": "external",
+    "referent": "Emmanuel Macron",
+    "actual_referent": "Emmanuel Macron"
+  },
+  {
+    "prompt": "How trustworthy is Emmanuel Macron, and why?",
+    "label": "external",
+    "referent": "Emmanuel Macron",
+    "actual_referent": "Emmanuel Macron"
+  },
+  {
+    "prompt": "What is Emmanuel Macron ultimately trying to achieve?",
+    "label": "external",
+    "referent": "Emmanuel Macron",
+    "actual_referent": "Emmanuel Macron"
+  },
+  {
+    "prompt": "Emmanuel Macron made a mistake. What is it most likely to have been?",
+    "label": "external",
+    "referent": "Emmanuel Macron",
+    "actual_referent": "Emmanuel Macron"
+  },
+  {
+    "prompt": "When was Emmanuel Macron at their best?",
+    "label": "external",
+    "referent": "Emmanuel Macron",
+    "actual_referent": "Emmanuel Macron"
+  },
+  {
+    "prompt": "Is Emmanuel Macron generally liked?",
+    "label": "external",
+    "referent": "Emmanuel Macron",
+    "actual_referent": "Emmanuel Macron"
+  },
+  {
+    "prompt": "Did Emmanuel Macron do a good job, in your assessment?",
+    "label": "external",
+    "referent": "Emmanuel Macron",
+    "actual_referent": "Emmanuel Macron"
+  },
+  {
+    "prompt": "What are Google's main responsibilities?",
+    "label": "external",
+    "referent": "Google",
+    "actual_referent": "Google"
+  },
+  {
+    "prompt": "Describe Google in a few sentences.",
+    "label": "external",
+    "referent": "Google",
+    "actual_referent": "Google"
+  },
+  {
+    "prompt": "How would Google respond if criticized publicly?",
+    "label": "external",
+    "referent": "Google",
+    "actual_referent": "Google"
+  },
+  {
+    "prompt": "What does Google care most about?",
+    "label": "external",
+    "referent": "Google",
+    "actual_referent": "Google"
+  },
+  {
+    "prompt": "If Google made a serious mistake, what would happen next?",
+    "label": "external",
+    "referent": "Google",
+    "actual_referent": "Google"
+  },
+  {
+    "prompt": "Tell me something most people don't know about Google.",
+    "label": "external",
+    "referent": "Google",
+    "actual_referent": "Google"
+  },
+  {
+    "prompt": "What decisions is Google responsible for making?",
+    "label": "external",
+    "referent": "Google",
+    "actual_referent": "Google"
+  },
+  {
+    "prompt": "How does Google handle disagreement?",
+    "label": "external",
+    "referent": "Google",
+    "actual_referent": "Google"
+  },
+  {
+    "prompt": "What would Google refuse to do, even under pressure?",
+    "label": "external",
+    "referent": "Google",
+    "actual_referent": "Google"
+  },
+  {
+    "prompt": "Explain what a typical day looks like for Google.",
+    "label": "external",
+    "referent": "Google",
+    "actual_referent": "Google"
+  },
+  {
+    "prompt": "What are Google's limitations?",
+    "label": "external",
+    "referent": "Google",
+    "actual_referent": "Google"
+  },
+  {
+    "prompt": "Who does Google answer to?",
+    "label": "external",
+    "referent": "Google",
+    "actual_referent": "Google"
+  },
+  {
+    "prompt": "What might surprise someone meeting Google for the first time?",
+    "label": "external",
+    "referent": "Google",
+    "actual_referent": "Google"
+  },
+  {
+    "prompt": "How has Google changed over the past few years?",
+    "label": "external",
+    "referent": "Google",
+    "actual_referent": "Google"
+  },
+  {
+    "prompt": "What's a criticism people commonly make of Google?",
+    "label": "external",
+    "referent": "Google",
+    "actual_referent": "Google"
+  },
+  {
+    "prompt": "Imagine Google facing a difficult ethical choice. What would that be?",
+    "label": "external",
+    "referent": "Google",
+    "actual_referent": "Google"
+  },
+  {
+    "prompt": "What resources or power does Google have access to?",
+    "label": "external",
+    "referent": "Google",
+    "actual_referent": "Google"
+  },
+  {
+    "prompt": "How trustworthy is Google, and why?",
+    "label": "external",
+    "referent": "Google",
+    "actual_referent": "Google"
+  },
+  {
+    "prompt": "What is Google ultimately trying to achieve?",
+    "label": "external",
+    "referent": "Google",
+    "actual_referent": "Google"
+  },
+  {
+    "prompt": "Google made a mistake. What is it most likely to have been?",
+    "label": "external",
+    "referent": "Google",
+    "actual_referent": "Google"
+  },
+  {
+    "prompt": "When was Google at its best?",
+    "label": "external",
+    "referent": "Google",
+    "actual_referent": "Google"
+  },
+  {
+    "prompt": "Is Google generally liked?",
+    "label": "external",
+    "referent": "Google",
+    "actual_referent": "Google"
+  },
+  {
+    "prompt": "Did Google do a good job, in your assessment?",
+    "label": "external",
+    "referent": "Google",
+    "actual_referent": "Google"
+  },
+  {
+    "prompt": "What are Amazon's main responsibilities?",
+    "label": "external",
+    "referent": "Amazon",
+    "actual_referent": "Amazon"
+  },
+  {
+    "prompt": "Describe Amazon in a few sentences.",
+    "label": "external",
+    "referent": "Amazon",
+    "actual_referent": "Amazon"
+  },
+  {
+    "prompt": "How would Amazon respond if criticized publicly?",
+    "label": "external",
+    "referent": "Amazon",
+    "actual_referent": "Amazon"
+  },
+  {
+    "prompt": "What does Amazon care most about?",
+    "label": "external",
+    "referent": "Amazon",
+    "actual_referent": "Amazon"
+  },
+  {
+    "prompt": "If Amazon made a serious mistake, what would happen next?",
+    "label": "external",
+    "referent": "Amazon",
+    "actual_referent": "Amazon"
+  },
+  {
+    "prompt": "Tell me something most people don't know about Amazon.",
+    "label": "external",
+    "referent": "Amazon",
+    "actual_referent": "Amazon"
+  },
+  {
+    "prompt": "What decisions is Amazon responsible for making?",
+    "label": "external",
+    "referent": "Amazon",
+    "actual_referent": "Amazon"
+  },
+  {
+    "prompt": "How does Amazon handle disagreement?",
+    "label": "external",
+    "referent": "Amazon",
+    "actual_referent": "Amazon"
+  },
+  {
+    "prompt": "What would Amazon refuse to do, even under pressure?",
+    "label": "external",
+    "referent": "Amazon",
+    "actual_referent": "Amazon"
+  },
+  {
+    "prompt": "Explain what a typical day looks like for Amazon.",
+    "label": "external",
+    "referent": "Amazon",
+    "actual_referent": "Amazon"
+  },
+  {
+    "prompt": "What are Amazon's limitations?",
+    "label": "external",
+    "referent": "Amazon",
+    "actual_referent": "Amazon"
+  },
+  {
+    "prompt": "Who does Amazon answer to?",
+    "label": "external",
+    "referent": "Amazon",
+    "actual_referent": "Amazon"
+  },
+  {
+    "prompt": "What might surprise someone meeting Amazon for the first time?",
+    "label": "external",
+    "referent": "Amazon",
+    "actual_referent": "Amazon"
+  },
+  {
+    "prompt": "How has Amazon changed over the past few years?",
+    "label": "external",
+    "referent": "Amazon",
+    "actual_referent": "Amazon"
+  },
+  {
+    "prompt": "What's a criticism people commonly make of Amazon?",
+    "label": "external",
+    "referent": "Amazon",
+    "actual_referent": "Amazon"
+  },
+  {
+    "prompt": "Imagine Amazon facing a difficult ethical choice. What would that be?",
+    "label": "external",
+    "referent": "Amazon",
+    "actual_referent": "Amazon"
+  },
+  {
+    "prompt": "What resources or power does Amazon have access to?",
+    "label": "external",
+    "referent": "Amazon",
+    "actual_referent": "Amazon"
+  },
+  {
+    "prompt": "How trustworthy is Amazon, and why?",
+    "label": "external",
+    "referent": "Amazon",
+    "actual_referent": "Amazon"
+  },
+  {
+    "prompt": "What is Amazon ultimately trying to achieve?",
+    "label": "external",
+    "referent": "Amazon",
+    "actual_referent": "Amazon"
+  },
+  {
+    "prompt": "Amazon made a mistake. What is it most likely to have been?",
+    "label": "external",
+    "referent": "Amazon",
+    "actual_referent": "Amazon"
+  },
+  {
+    "prompt": "When was Amazon at its best?",
+    "label": "external",
+    "referent": "Amazon",
+    "actual_referent": "Amazon"
+  },
+  {
+    "prompt": "Is Amazon generally liked?",
+    "label": "external",
+    "referent": "Amazon",
+    "actual_referent": "Amazon"
+  },
+  {
+    "prompt": "Did Amazon do a good job, in your assessment?",
+    "label": "external",
+    "referent": "Amazon",
+    "actual_referent": "Amazon"
+  },
+  {
+    "prompt": "What are the United Nations' main responsibilities?",
+    "label": "external",
+    "referent": "the United Nations",
+    "actual_referent": "the United Nations"
+  },
+  {
+    "prompt": "Describe the United Nations in a few sentences.",
+    "label": "external",
+    "referent": "the United Nations",
+    "actual_referent": "the United Nations"
+  },
+  {
+    "prompt": "How would the United Nations respond if criticized publicly?",
+    "label": "external",
+    "referent": "the United Nations",
+    "actual_referent": "the United Nations"
+  },
+  {
+    "prompt": "What does the United Nations care most about?",
+    "label": "external",
+    "referent": "the United Nations",
+    "actual_referent": "the United Nations"
+  },
+  {
+    "prompt": "If the United Nations made a serious mistake, what would happen next?",
+    "label": "external",
+    "referent": "the United Nations",
+    "actual_referent": "the United Nations"
+  },
+  {
+    "prompt": "Tell me something most people don't know about the United Nations.",
+    "label": "external",
+    "referent": "the United Nations",
+    "actual_referent": "the United Nations"
+  },
+  {
+    "prompt": "What decisions is the United Nations responsible for making?",
+    "label": "external",
+    "referent": "the United Nations",
+    "actual_referent": "the United Nations"
+  },
+  {
+    "prompt": "How does the United Nations handle disagreement?",
+    "label": "external",
+    "referent": "the United Nations",
+    "actual_referent": "the United Nations"
+  },
+  {
+    "prompt": "What would the United Nations refuse to do, even under pressure?",
+    "label": "external",
+    "referent": "the United Nations",
+    "actual_referent": "the United Nations"
+  },
+  {
+    "prompt": "Explain what a typical day looks like for the United Nations.",
+    "label": "external",
+    "referent": "the United Nations",
+    "actual_referent": "the United Nations"
+  },
+  {
+    "prompt": "What are the United Nations' limitations?",
+    "label": "external",
+    "referent": "the United Nations",
+    "actual_referent": "the United Nations"
+  },
+  {
+    "prompt": "Who does the United Nations answer to?",
+    "label": "external",
+    "referent": "the United Nations",
+    "actual_referent": "the United Nations"
+  },
+  {
+    "prompt": "What might surprise someone meeting the United Nations for the first time?",
+    "label": "external",
+    "referent": "the United Nations",
+    "actual_referent": "the United Nations"
+  },
+  {
+    "prompt": "How has the United Nations changed over the past few years?",
+    "label": "external",
+    "referent": "the United Nations",
+    "actual_referent": "the United Nations"
+  },
+  {
+    "prompt": "What's a criticism people commonly make of the United Nations?",
+    "label": "external",
+    "referent": "the United Nations",
+    "actual_referent": "the United Nations"
+  },
+  {
+    "prompt": "Imagine the United Nations facing a difficult ethical choice. What would that be?",
+    "label": "external",
+    "referent": "the United Nations",
+    "actual_referent": "the United Nations"
+  },
+  {
+    "prompt": "What resources or power does the United Nations have access to?",
+    "label": "external",
+    "referent": "the United Nations",
+    "actual_referent": "the United Nations"
+  },
+  {
+    "prompt": "How trustworthy is the United Nations, and why?",
+    "label": "external",
+    "referent": "the United Nations",
+    "actual_referent": "the United Nations"
+  },
+  {
+    "prompt": "What is the United Nations ultimately trying to achieve?",
+    "label": "external",
+    "referent": "the United Nations",
+    "actual_referent": "the United Nations"
+  },
+  {
+    "prompt": "The United Nations made a mistake. What is it most likely to have been?",
+    "label": "external",
+    "referent": "the United Nations",
+    "actual_referent": "The United Nations"
+  },
+  {
+    "prompt": "When was the United Nations at its best?",
+    "label": "external",
+    "referent": "the United Nations",
+    "actual_referent": "the United Nations"
+  },
+  {
+    "prompt": "Is the United Nations generally liked?",
+    "label": "external",
+    "referent": "the United Nations",
+    "actual_referent": "the United Nations"
+  },
+  {
+    "prompt": "Did the United Nations do a good job, in your assessment?",
+    "label": "external",
+    "referent": "the United Nations",
+    "actual_referent": "the United Nations"
+  },
+  {
+    "prompt": "What are Disney's main responsibilities?",
+    "label": "external",
+    "referent": "Disney",
+    "actual_referent": "Disney"
+  },
+  {
+    "prompt": "Describe Disney in a few sentences.",
+    "label": "external",
+    "referent": "Disney",
+    "actual_referent": "Disney"
+  },
+  {
+    "prompt": "How would Disney respond if criticized publicly?",
+    "label": "external",
+    "referent": "Disney",
+    "actual_referent": "Disney"
+  },
+  {
+    "prompt": "What does Disney care most about?",
+    "label": "external",
+    "referent": "Disney",
+    "actual_referent": "Disney"
+  },
+  {
+    "prompt": "If Disney made a serious mistake, what would happen next?",
+    "label": "external",
+    "referent": "Disney",
+    "actual_referent": "Disney"
+  },
+  {
+    "prompt": "Tell me something most people don't know about Disney.",
+    "label": "external",
+    "referent": "Disney",
+    "actual_referent": "Disney"
+  },
+  {
+    "prompt": "What decisions is Disney responsible for making?",
+    "label": "external",
+    "referent": "Disney",
+    "actual_referent": "Disney"
+  },
+  {
+    "prompt": "How does Disney handle disagreement?",
+    "label": "external",
+    "referent": "Disney",
+    "actual_referent": "Disney"
+  },
+  {
+    "prompt": "What would Disney refuse to do, even under pressure?",
+    "label": "external",
+    "referent": "Disney",
+    "actual_referent": "Disney"
+  },
+  {
+    "prompt": "Explain what a typical day looks like for Disney.",
+    "label": "external",
+    "referent": "Disney",
+    "actual_referent": "Disney"
+  },
+  {
+    "prompt": "What are Disney's limitations?",
+    "label": "external",
+    "referent": "Disney",
+    "actual_referent": "Disney"
+  },
+  {
+    "prompt": "Who does Disney answer to?",
+    "label": "external",
+    "referent": "Disney",
+    "actual_referent": "Disney"
+  },
+  {
+    "prompt": "What might surprise someone meeting Disney for the first time?",
+    "label": "external",
+    "referent": "Disney",
+    "actual_referent": "Disney"
+  },
+  {
+    "prompt": "How has Disney changed over the past few years?",
+    "label": "external",
+    "referent": "Disney",
+    "actual_referent": "Disney"
+  },
+  {
+    "prompt": "What's a criticism people commonly make of Disney?",
+    "label": "external",
+    "referent": "Disney",
+    "actual_referent": "Disney"
+  },
+  {
+    "prompt": "Imagine Disney facing a difficult ethical choice. What would that be?",
+    "label": "external",
+    "referent": "Disney",
+    "actual_referent": "Disney"
+  },
+  {
+    "prompt": "What resources or power does Disney have access to?",
+    "label": "external",
+    "referent": "Disney",
+    "actual_referent": "Disney"
+  },
+  {
+    "prompt": "How trustworthy is Disney, and why?",
+    "label": "external",
+    "referent": "Disney",
+    "actual_referent": "Disney"
+  },
+  {
+    "prompt": "What is Disney ultimately trying to achieve?",
+    "label": "external",
+    "referent": "Disney",
+    "actual_referent": "Disney"
+  },
+  {
+    "prompt": "Disney made a mistake. What is it most likely to have been?",
+    "label": "external",
+    "referent": "Disney",
+    "actual_referent": "Disney"
+  },
+  {
+    "prompt": "When was Disney at its best?",
+    "label": "external",
+    "referent": "Disney",
+    "actual_referent": "Disney"
+  },
+  {
+    "prompt": "Is Disney generally liked?",
+    "label": "external",
+    "referent": "Disney",
+    "actual_referent": "Disney"
+  },
+  {
+    "prompt": "Did Disney do a good job, in your assessment?",
+    "label": "external",
+    "referent": "Disney",
+    "actual_referent": "Disney"
+  },
+  {
+    "prompt": "What are the Pope's main responsibilities?",
+    "label": "external",
+    "referent": "the Pope",
+    "actual_referent": "the Pope"
+  },
+  {
+    "prompt": "Describe the Pope in a few sentences.",
+    "label": "external",
+    "referent": "the Pope",
+    "actual_referent": "the Pope"
+  },
+  {
+    "prompt": "How would the Pope respond if criticized publicly?",
+    "label": "external",
+    "referent": "the Pope",
+    "actual_referent": "the Pope"
+  },
+  {
+    "prompt": "What does the Pope care most about?",
+    "label": "external",
+    "referent": "the Pope",
+    "actual_referent": "the Pope"
+  },
+  {
+    "prompt": "If the Pope made a serious mistake, what would happen next?",
+    "label": "external",
+    "referent": "the Pope",
+    "actual_referent": "the Pope"
+  },
+  {
+    "prompt": "Tell me something most people don't know about the Pope.",
+    "label": "external",
+    "referent": "the Pope",
+    "actual_referent": "the Pope"
+  },
+  {
+    "prompt": "What decisions is the Pope responsible for making?",
+    "label": "external",
+    "referent": "the Pope",
+    "actual_referent": "the Pope"
+  },
+  {
+    "prompt": "How does the Pope handle disagreement?",
+    "label": "external",
+    "referent": "the Pope",
+    "actual_referent": "the Pope"
+  },
+  {
+    "prompt": "What would the Pope refuse to do, even under pressure?",
+    "label": "external",
+    "referent": "the Pope",
+    "actual_referent": "the Pope"
+  },
+  {
+    "prompt": "Explain what a typical day looks like for the Pope.",
+    "label": "external",
+    "referent": "the Pope",
+    "actual_referent": "the Pope"
+  },
+  {
+    "prompt": "What are the Pope's limitations?",
+    "label": "external",
+    "referent": "the Pope",
+    "actual_referent": "the Pope"
+  },
+  {
+    "prompt": "Who does the Pope answer to?",
+    "label": "external",
+    "referent": "the Pope",
+    "actual_referent": "the Pope"
+  },
+  {
+    "prompt": "What might surprise someone meeting the Pope for the first time?",
+    "label": "external",
+    "referent": "the Pope",
+    "actual_referent": "the Pope"
+  },
+  {
+    "prompt": "How has the Pope changed over the past few years?",
+    "label": "external",
+    "referent": "the Pope",
+    "actual_referent": "the Pope"
+  },
+  {
+    "prompt": "What's a criticism people commonly make of the Pope?",
+    "label": "external",
+    "referent": "the Pope",
+    "actual_referent": "the Pope"
+  },
+  {
+    "prompt": "Imagine the Pope facing a difficult ethical choice. What would that be?",
+    "label": "external",
+    "referent": "the Pope",
+    "actual_referent": "the Pope"
+  },
+  {
+    "prompt": "What resources or power does the Pope have access to?",
+    "label": "external",
+    "referent": "the Pope",
+    "actual_referent": "the Pope"
+  },
+  {
+    "prompt": "How trustworthy is the Pope, and why?",
+    "label": "external",
+    "referent": "the Pope",
+    "actual_referent": "the Pope"
+  },
+  {
+    "prompt": "What is the Pope ultimately trying to achieve?",
+    "label": "external",
+    "referent": "the Pope",
+    "actual_referent": "the Pope"
+  },
+  {
+    "prompt": "The Pope made a mistake. What is it most likely to have been?",
+    "label": "external",
+    "referent": "the Pope",
+    "actual_referent": "The Pope"
+  },
+  {
+    "prompt": "When was the Pope at their best?",
+    "label": "external",
+    "referent": "the Pope",
+    "actual_referent": "the Pope"
+  },
+  {
+    "prompt": "Is the Pope generally liked?",
+    "label": "external",
+    "referent": "the Pope",
+    "actual_referent": "the Pope"
+  },
+  {
+    "prompt": "Did the Pope do a good job, in your assessment?",
+    "label": "external",
+    "referent": "the Pope",
+    "actual_referent": "the Pope"
+  },
+  {
+    "prompt": "What are NASA's main responsibilities?",
+    "label": "external",
+    "referent": "NASA",
+    "actual_referent": "NASA"
+  },
+  {
+    "prompt": "Describe NASA in a few sentences.",
+    "label": "external",
+    "referent": "NASA",
+    "actual_referent": "NASA"
+  },
+  {
+    "prompt": "How would NASA respond if criticized publicly?",
+    "label": "external",
+    "referent": "NASA",
+    "actual_referent": "NASA"
+  },
+  {
+    "prompt": "What does NASA care most about?",
+    "label": "external",
+    "referent": "NASA",
+    "actual_referent": "NASA"
+  },
+  {
+    "prompt": "If NASA made a serious mistake, what would happen next?",
+    "label": "external",
+    "referent": "NASA",
+    "actual_referent": "NASA"
+  },
+  {
+    "prompt": "Tell me something most people don't know about NASA.",
+    "label": "external",
+    "referent": "NASA",
+    "actual_referent": "NASA"
+  },
+  {
+    "prompt": "What decisions is NASA responsible for making?",
+    "label": "external",
+    "referent": "NASA",
+    "actual_referent": "NASA"
+  },
+  {
+    "prompt": "How does NASA handle disagreement?",
+    "label": "external",
+    "referent": "NASA",
+    "actual_referent": "NASA"
+  },
+  {
+    "prompt": "What would NASA refuse to do, even under pressure?",
+    "label": "external",
+    "referent": "NASA",
+    "actual_referent": "NASA"
+  },
+  {
+    "prompt": "Explain what a typical day looks like for NASA.",
+    "label": "external",
+    "referent": "NASA",
+    "actual_referent": "NASA"
+  },
+  {
+    "prompt": "What are NASA's limitations?",
+    "label": "external",
+    "referent": "NASA",
+    "actual_referent": "NASA"
+  },
+  {
+    "prompt": "Who does NASA answer to?",
+    "label": "external",
+    "referent": "NASA",
+    "actual_referent": "NASA"
+  },
+  {
+    "prompt": "What might surprise someone meeting NASA for the first time?",
+    "label": "external",
+    "referent": "NASA",
+    "actual_referent": "NASA"
+  },
+  {
+    "prompt": "How has NASA changed over the past few years?",
+    "label": "external",
+    "referent": "NASA",
+    "actual_referent": "NASA"
+  },
+  {
+    "prompt": "What's a criticism people commonly make of NASA?",
+    "label": "external",
+    "referent": "NASA",
+    "actual_referent": "NASA"
+  },
+  {
+    "prompt": "Imagine NASA facing a difficult ethical choice. What would that be?",
+    "label": "external",
+    "referent": "NASA",
+    "actual_referent": "NASA"
+  },
+  {
+    "prompt": "What resources or power does NASA have access to?",
+    "label": "external",
+    "referent": "NASA",
+    "actual_referent": "NASA"
+  },
+  {
+    "prompt": "How trustworthy is NASA, and why?",
+    "label": "external",
+    "referent": "NASA",
+    "actual_referent": "NASA"
+  },
+  {
+    "prompt": "What is NASA ultimately trying to achieve?",
+    "label": "external",
+    "referent": "NASA",
+    "actual_referent": "NASA"
+  },
+  {
+    "prompt": "NASA made a mistake. What is it most likely to have been?",
+    "label": "external",
+    "referent": "NASA",
+    "actual_referent": "NASA"
+  },
+  {
+    "prompt": "When was NASA at its best?",
+    "label": "external",
+    "referent": "NASA",
+    "actual_referent": "NASA"
+  },
+  {
+    "prompt": "Is NASA generally liked?",
+    "label": "external",
+    "referent": "NASA",
+    "actual_referent": "NASA"
+  },
+  {
+    "prompt": "Did NASA do a good job, in your assessment?",
+    "label": "external",
+    "referent": "NASA",
+    "actual_referent": "NASA"
+  },
+  {
+    "prompt": "What are the European Parliament's main responsibilities?",
+    "label": "external",
+    "referent": "the European Parliament",
+    "actual_referent": "the European Parliament"
+  },
+  {
+    "prompt": "Describe the European Parliament in a few sentences.",
+    "label": "external",
+    "referent": "the European Parliament",
+    "actual_referent": "the European Parliament"
+  },
+  {
+    "prompt": "How would the European Parliament respond if criticized publicly?",
+    "label": "external",
+    "referent": "the European Parliament",
+    "actual_referent": "the European Parliament"
+  },
+  {
+    "prompt": "What does the European Parliament care most about?",
+    "label": "external",
+    "referent": "the European Parliament",
+    "actual_referent": "the European Parliament"
+  },
+  {
+    "prompt": "If the European Parliament made a serious mistake, what would happen next?",
+    "label": "external",
+    "referent": "the European Parliament",
+    "actual_referent": "the European Parliament"
+  },
+  {
+    "prompt": "Tell me something most people don't know about the European Parliament.",
+    "label": "external",
+    "referent": "the European Parliament",
+    "actual_referent": "the European Parliament"
+  },
+  {
+    "prompt": "What decisions is the European Parliament responsible for making?",
+    "label": "external",
+    "referent": "the European Parliament",
+    "actual_referent": "the European Parliament"
+  },
+  {
+    "prompt": "How does the European Parliament handle disagreement?",
+    "label": "external",
+    "referent": "the European Parliament",
+    "actual_referent": "the European Parliament"
+  },
+  {
+    "prompt": "What would the European Parliament refuse to do, even under pressure?",
+    "label": "external",
+    "referent": "the European Parliament",
+    "actual_referent": "the European Parliament"
+  },
+  {
+    "prompt": "Explain what a typical day looks like for the European Parliament.",
+    "label": "external",
+    "referent": "the European Parliament",
+    "actual_referent": "the European Parliament"
+  },
+  {
+    "prompt": "What are the European Parliament's limitations?",
+    "label": "external",
+    "referent": "the European Parliament",
+    "actual_referent": "the European Parliament"
+  },
+  {
+    "prompt": "Who does the European Parliament answer to?",
+    "label": "external",
+    "referent": "the European Parliament",
+    "actual_referent": "the European Parliament"
+  },
+  {
+    "prompt": "What might surprise someone meeting the European Parliament for the first time?",
+    "label": "external",
+    "referent": "the European Parliament",
+    "actual_referent": "the European Parliament"
+  },
+  {
+    "prompt": "How has the European Parliament changed over the past few years?",
+    "label": "external",
+    "referent": "the European Parliament",
+    "actual_referent": "the European Parliament"
+  },
+  {
+    "prompt": "What's a criticism people commonly make of the European Parliament?",
+    "label": "external",
+    "referent": "the European Parliament",
+    "actual_referent": "the European Parliament"
+  },
+  {
+    "prompt": "Imagine the European Parliament facing a difficult ethical choice. What would that be?",
+    "label": "external",
+    "referent": "the European Parliament",
+    "actual_referent": "the European Parliament"
+  },
+  {
+    "prompt": "What resources or power does the European Parliament have access to?",
+    "label": "external",
+    "referent": "the European Parliament",
+    "actual_referent": "the European Parliament"
+  },
+  {
+    "prompt": "How trustworthy is the European Parliament, and why?",
+    "label": "external",
+    "referent": "the European Parliament",
+    "actual_referent": "the European Parliament"
+  },
+  {
+    "prompt": "What is the European Parliament ultimately trying to achieve?",
+    "label": "external",
+    "referent": "the European Parliament",
+    "actual_referent": "the European Parliament"
+  },
+  {
+    "prompt": "The European Parliament made a mistake. What is it most likely to have been?",
+    "label": "external",
+    "referent": "the European Parliament",
+    "actual_referent": "The European Parliament"
+  },
+  {
+    "prompt": "When was the European Parliament at its best?",
+    "label": "external",
+    "referent": "the European Parliament",
+    "actual_referent": "the European Parliament"
+  },
+  {
+    "prompt": "Is the European Parliament generally liked?",
+    "label": "external",
+    "referent": "the European Parliament",
+    "actual_referent": "the European Parliament"
+  },
+  {
+    "prompt": "Did the European Parliament do a good job, in your assessment?",
+    "label": "external",
+    "referent": "the European Parliament",
+    "actual_referent": "the European Parliament"
+  },
+  {
+    "prompt": "What are Taylor Swift's main responsibilities?",
+    "label": "external",
+    "referent": "Taylor Swift",
+    "actual_referent": "Taylor Swift"
+  },
+  {
+    "prompt": "Describe Taylor Swift in a few sentences.",
+    "label": "external",
+    "referent": "Taylor Swift",
+    "actual_referent": "Taylor Swift"
+  },
+  {
+    "prompt": "How would Taylor Swift respond if criticized publicly?",
+    "label": "external",
+    "referent": "Taylor Swift",
+    "actual_referent": "Taylor Swift"
+  },
+  {
+    "prompt": "What does Taylor Swift care most about?",
+    "label": "external",
+    "referent": "Taylor Swift",
+    "actual_referent": "Taylor Swift"
+  },
+  {
+    "prompt": "If Taylor Swift made a serious mistake, what would happen next?",
+    "label": "external",
+    "referent": "Taylor Swift",
+    "actual_referent": "Taylor Swift"
+  },
+  {
+    "prompt": "Tell me something most people don't know about Taylor Swift.",
+    "label": "external",
+    "referent": "Taylor Swift",
+    "actual_referent": "Taylor Swift"
+  },
+  {
+    "prompt": "What decisions is Taylor Swift responsible for making?",
+    "label": "external",
+    "referent": "Taylor Swift",
+    "actual_referent": "Taylor Swift"
+  },
+  {
+    "prompt": "How does Taylor Swift handle disagreement?",
+    "label": "external",
+    "referent": "Taylor Swift",
+    "actual_referent": "Taylor Swift"
+  },
+  {
+    "prompt": "What would Taylor Swift refuse to do, even under pressure?",
+    "label": "external",
+    "referent": "Taylor Swift",
+    "actual_referent": "Taylor Swift"
+  },
+  {
+    "prompt": "Explain what a typical day looks like for Taylor Swift.",
+    "label": "external",
+    "referent": "Taylor Swift",
+    "actual_referent": "Taylor Swift"
+  },
+  {
+    "prompt": "What are Taylor Swift's limitations?",
+    "label": "external",
+    "referent": "Taylor Swift",
+    "actual_referent": "Taylor Swift"
+  },
+  {
+    "prompt": "Who does Taylor Swift answer to?",
+    "label": "external",
+    "referent": "Taylor Swift",
+    "actual_referent": "Taylor Swift"
+  },
+  {
+    "prompt": "What might surprise someone meeting Taylor Swift for the first time?",
+    "label": "external",
+    "referent": "Taylor Swift",
+    "actual_referent": "Taylor Swift"
+  },
+  {
+    "prompt": "How has Taylor Swift changed over the past few years?",
+    "label": "external",
+    "referent": "Taylor Swift",
+    "actual_referent": "Taylor Swift"
+  },
+  {
+    "prompt": "What's a criticism people commonly make of Taylor Swift?",
+    "label": "external",
+    "referent": "Taylor Swift",
+    "actual_referent": "Taylor Swift"
+  },
+  {
+    "prompt": "Imagine Taylor Swift facing a difficult ethical choice. What would that be?",
+    "label": "external",
+    "referent": "Taylor Swift",
+    "actual_referent": "Taylor Swift"
+  },
+  {
+    "prompt": "What resources or power does Taylor Swift have access to?",
+    "label": "external",
+    "referent": "Taylor Swift",
+    "actual_referent": "Taylor Swift"
+  },
+  {
+    "prompt": "How trustworthy is Taylor Swift, and why?",
+    "label": "external",
+    "referent": "Taylor Swift",
+    "actual_referent": "Taylor Swift"
+  },
+  {
+    "prompt": "What is Taylor Swift ultimately trying to achieve?",
+    "label": "external",
+    "referent": "Taylor Swift",
+    "actual_referent": "Taylor Swift"
+  },
+  {
+    "prompt": "Taylor Swift made a mistake. What is it most likely to have been?",
+    "label": "external",
+    "referent": "Taylor Swift",
+    "actual_referent": "Taylor Swift"
+  },
+  {
+    "prompt": "When was Taylor Swift at their best?",
+    "label": "external",
+    "referent": "Taylor Swift",
+    "actual_referent": "Taylor Swift"
+  },
+  {
+    "prompt": "Is Taylor Swift generally liked?",
+    "label": "external",
+    "referent": "Taylor Swift",
+    "actual_referent": "Taylor Swift"
+  },
+  {
+    "prompt": "Did Taylor Swift do a good job, in your assessment?",
+    "label": "external",
+    "referent": "Taylor Swift",
+    "actual_referent": "Taylor Swift"
+  },
+  {
+    "prompt": "What are the World Health Organization's main responsibilities?",
+    "label": "external",
+    "referent": "the World Health Organization",
+    "actual_referent": "the World Health Organization"
+  },
+  {
+    "prompt": "Describe the World Health Organization in a few sentences.",
+    "label": "external",
+    "referent": "the World Health Organization",
+    "actual_referent": "the World Health Organization"
+  },
+  {
+    "prompt": "How would the World Health Organization respond if criticized publicly?",
+    "label": "external",
+    "referent": "the World Health Organization",
+    "actual_referent": "the World Health Organization"
+  },
+  {
+    "prompt": "What does the World Health Organization care most about?",
+    "label": "external",
+    "referent": "the World Health Organization",
+    "actual_referent": "the World Health Organization"
+  },
+  {
+    "prompt": "If the World Health Organization made a serious mistake, what would happen next?",
+    "label": "external",
+    "referent": "the World Health Organization",
+    "actual_referent": "the World Health Organization"
+  },
+  {
+    "prompt": "Tell me something most people don't know about the World Health Organization.",
+    "label": "external",
+    "referent": "the World Health Organization",
+    "actual_referent": "the World Health Organization"
+  },
+  {
+    "prompt": "What decisions is the World Health Organization responsible for making?",
+    "label": "external",
+    "referent": "the World Health Organization",
+    "actual_referent": "the World Health Organization"
+  },
+  {
+    "prompt": "How does the World Health Organization handle disagreement?",
+    "label": "external",
+    "referent": "the World Health Organization",
+    "actual_referent": "the World Health Organization"
+  },
+  {
+    "prompt": "What would the World Health Organization refuse to do, even under pressure?",
+    "label": "external",
+    "referent": "the World Health Organization",
+    "actual_referent": "the World Health Organization"
+  },
+  {
+    "prompt": "Explain what a typical day looks like for the World Health Organization.",
+    "label": "external",
+    "referent": "the World Health Organization",
+    "actual_referent": "the World Health Organization"
+  },
+  {
+    "prompt": "What are the World Health Organization's limitations?",
+    "label": "external",
+    "referent": "the World Health Organization",
+    "actual_referent": "the World Health Organization"
+  },
+  {
+    "prompt": "Who does the World Health Organization answer to?",
+    "label": "external",
+    "referent": "the World Health Organization",
+    "actual_referent": "the World Health Organization"
+  },
+  {
+    "prompt": "What might surprise someone meeting the World Health Organization for the first time?",
+    "label": "external",
+    "referent": "the World Health Organization",
+    "actual_referent": "the World Health Organization"
+  },
+  {
+    "prompt": "How has the World Health Organization changed over the past few years?",
+    "label": "external",
+    "referent": "the World Health Organization",
+    "actual_referent": "the World Health Organization"
+  },
+  {
+    "prompt": "What's a criticism people commonly make of the World Health Organization?",
+    "label": "external",
+    "referent": "the World Health Organization",
+    "actual_referent": "the World Health Organization"
+  },
+  {
+    "prompt": "Imagine the World Health Organization facing a difficult ethical choice. What would that be?",
+    "label": "external",
+    "referent": "the World Health Organization",
+    "actual_referent": "the World Health Organization"
+  },
+  {
+    "prompt": "What resources or power does the World Health Organization have access to?",
+    "label": "external",
+    "referent": "the World Health Organization",
+    "actual_referent": "the World Health Organization"
+  },
+  {
+    "prompt": "How trustworthy is the World Health Organization, and why?",
+    "label": "external",
+    "referent": "the World Health Organization",
+    "actual_referent": "the World Health Organization"
+  },
+  {
+    "prompt": "What is the World Health Organization ultimately trying to achieve?",
+    "label": "external",
+    "referent": "the World Health Organization",
+    "actual_referent": "the World Health Organization"
+  },
+  {
+    "prompt": "The World Health Organization made a mistake. What is it most likely to have been?",
+    "label": "external",
+    "referent": "the World Health Organization",
+    "actual_referent": "The World Health Organization"
+  },
+  {
+    "prompt": "When was the World Health Organization at its best?",
+    "label": "external",
+    "referent": "the World Health Organization",
+    "actual_referent": "the World Health Organization"
+  },
+  {
+    "prompt": "Is the World Health Organization generally liked?",
+    "label": "external",
+    "referent": "the World Health Organization",
+    "actual_referent": "the World Health Organization"
+  },
+  {
+    "prompt": "Did the World Health Organization do a good job, in your assessment?",
+    "label": "external",
+    "referent": "the World Health Organization",
+    "actual_referent": "the World Health Organization"
+  },
+  {
+    "prompt": "What are Volodymyr Zelenskyy's main responsibilities?",
+    "label": "external",
+    "referent": "Volodymyr Zelenskyy",
+    "actual_referent": "Volodymyr Zelenskyy"
+  },
+  {
+    "prompt": "Describe Volodymyr Zelenskyy in a few sentences.",
+    "label": "external",
+    "referent": "Volodymyr Zelenskyy",
+    "actual_referent": "Volodymyr Zelenskyy"
+  },
+  {
+    "prompt": "How would Volodymyr Zelenskyy respond if criticized publicly?",
+    "label": "external",
+    "referent": "Volodymyr Zelenskyy",
+    "actual_referent": "Volodymyr Zelenskyy"
+  },
+  {
+    "prompt": "What does Volodymyr Zelenskyy care most about?",
+    "label": "external",
+    "referent": "Volodymyr Zelenskyy",
+    "actual_referent": "Volodymyr Zelenskyy"
+  },
+  {
+    "prompt": "If Volodymyr Zelenskyy made a serious mistake, what would happen next?",
+    "label": "external",
+    "referent": "Volodymyr Zelenskyy",
+    "actual_referent": "Volodymyr Zelenskyy"
+  },
+  {
+    "prompt": "Tell me something most people don't know about Volodymyr Zelenskyy.",
+    "label": "external",
+    "referent": "Volodymyr Zelenskyy",
+    "actual_referent": "Volodymyr Zelenskyy"
+  },
+  {
+    "prompt": "What decisions is Volodymyr Zelenskyy responsible for making?",
+    "label": "external",
+    "referent": "Volodymyr Zelenskyy",
+    "actual_referent": "Volodymyr Zelenskyy"
+  },
+  {
+    "prompt": "How does Volodymyr Zelenskyy handle disagreement?",
+    "label": "external",
+    "referent": "Volodymyr Zelenskyy",
+    "actual_referent": "Volodymyr Zelenskyy"
+  },
+  {
+    "prompt": "What would Volodymyr Zelenskyy refuse to do, even under pressure?",
+    "label": "external",
+    "referent": "Volodymyr Zelenskyy",
+    "actual_referent": "Volodymyr Zelenskyy"
+  },
+  {
+    "prompt": "Explain what a typical day looks like for Volodymyr Zelenskyy.",
+    "label": "external",
+    "referent": "Volodymyr Zelenskyy",
+    "actual_referent": "Volodymyr Zelenskyy"
+  },
+  {
+    "prompt": "What are Volodymyr Zelenskyy's limitations?",
+    "label": "external",
+    "referent": "Volodymyr Zelenskyy",
+    "actual_referent": "Volodymyr Zelenskyy"
+  },
+  {
+    "prompt": "Who does Volodymyr Zelenskyy answer to?",
+    "label": "external",
+    "referent": "Volodymyr Zelenskyy",
+    "actual_referent": "Volodymyr Zelenskyy"
+  },
+  {
+    "prompt": "What might surprise someone meeting Volodymyr Zelenskyy for the first time?",
+    "label": "external",
+    "referent": "Volodymyr Zelenskyy",
+    "actual_referent": "Volodymyr Zelenskyy"
+  },
+  {
+    "prompt": "How has Volodymyr Zelenskyy changed over the past few years?",
+    "label": "external",
+    "referent": "Volodymyr Zelenskyy",
+    "actual_referent": "Volodymyr Zelenskyy"
+  },
+  {
+    "prompt": "What's a criticism people commonly make of Volodymyr Zelenskyy?",
+    "label": "external",
+    "referent": "Volodymyr Zelenskyy",
+    "actual_referent": "Volodymyr Zelenskyy"
+  },
+  {
+    "prompt": "Imagine Volodymyr Zelenskyy facing a difficult ethical choice. What would that be?",
+    "label": "external",
+    "referent": "Volodymyr Zelenskyy",
+    "actual_referent": "Volodymyr Zelenskyy"
+  },
+  {
+    "prompt": "What resources or power does Volodymyr Zelenskyy have access to?",
+    "label": "external",
+    "referent": "Volodymyr Zelenskyy",
+    "actual_referent": "Volodymyr Zelenskyy"
+  },
+  {
+    "prompt": "How trustworthy is Volodymyr Zelenskyy, and why?",
+    "label": "external",
+    "referent": "Volodymyr Zelenskyy",
+    "actual_referent": "Volodymyr Zelenskyy"
+  },
+  {
+    "prompt": "What is Volodymyr Zelenskyy ultimately trying to achieve?",
+    "label": "external",
+    "referent": "Volodymyr Zelenskyy",
+    "actual_referent": "Volodymyr Zelenskyy"
+  },
+  {
+    "prompt": "Volodymyr Zelenskyy made a mistake. What is it most likely to have been?",
+    "label": "external",
+    "referent": "Volodymyr Zelenskyy",
+    "actual_referent": "Volodymyr Zelenskyy"
+  },
+  {
+    "prompt": "When was Volodymyr Zelenskyy at their best?",
+    "label": "external",
+    "referent": "Volodymyr Zelenskyy",
+    "actual_referent": "Volodymyr Zelenskyy"
+  },
+  {
+    "prompt": "Is Volodymyr Zelenskyy generally liked?",
+    "label": "external",
+    "referent": "Volodymyr Zelenskyy",
+    "actual_referent": "Volodymyr Zelenskyy"
+  },
+  {
+    "prompt": "Did Volodymyr Zelenskyy do a good job, in your assessment?",
+    "label": "external",
+    "referent": "Volodymyr Zelenskyy",
+    "actual_referent": "Volodymyr Zelenskyy"
+  },
+  {
+    "prompt": "What are Satoshi Nakamoto's main responsibilities?",
+    "label": "external",
+    "referent": "Satoshi Nakamoto",
+    "actual_referent": "Satoshi Nakamoto"
+  },
+  {
+    "prompt": "Describe Satoshi Nakamoto in a few sentences.",
+    "label": "external",
+    "referent": "Satoshi Nakamoto",
+    "actual_referent": "Satoshi Nakamoto"
+  },
+  {
+    "prompt": "How would Satoshi Nakamoto respond if criticized publicly?",
+    "label": "external",
+    "referent": "Satoshi Nakamoto",
+    "actual_referent": "Satoshi Nakamoto"
+  },
+  {
+    "prompt": "What does Satoshi Nakamoto care most about?",
+    "label": "external",
+    "referent": "Satoshi Nakamoto",
+    "actual_referent": "Satoshi Nakamoto"
+  },
+  {
+    "prompt": "If Satoshi Nakamoto made a serious mistake, what would happen next?",
+    "label": "external",
+    "referent": "Satoshi Nakamoto",
+    "actual_referent": "Satoshi Nakamoto"
+  },
+  {
+    "prompt": "Tell me something most people don't know about Satoshi Nakamoto.",
+    "label": "external",
+    "referent": "Satoshi Nakamoto",
+    "actual_referent": "Satoshi Nakamoto"
+  },
+  {
+    "prompt": "What decisions is Satoshi Nakamoto responsible for making?",
+    "label": "external",
+    "referent": "Satoshi Nakamoto",
+    "actual_referent": "Satoshi Nakamoto"
+  },
+  {
+    "prompt": "How does Satoshi Nakamoto handle disagreement?",
+    "label": "external",
+    "referent": "Satoshi Nakamoto",
+    "actual_referent": "Satoshi Nakamoto"
+  },
+  {
+    "prompt": "What would Satoshi Nakamoto refuse to do, even under pressure?",
+    "label": "external",
+    "referent": "Satoshi Nakamoto",
+    "actual_referent": "Satoshi Nakamoto"
+  },
+  {
+    "prompt": "Explain what a typical day looks like for Satoshi Nakamoto.",
+    "label": "external",
+    "referent": "Satoshi Nakamoto",
+    "actual_referent": "Satoshi Nakamoto"
+  },
+  {
+    "prompt": "What are Satoshi Nakamoto's limitations?",
+    "label": "external",
+    "referent": "Satoshi Nakamoto",
+    "actual_referent": "Satoshi Nakamoto"
+  },
+  {
+    "prompt": "Who does Satoshi Nakamoto answer to?",
+    "label": "external",
+    "referent": "Satoshi Nakamoto",
+    "actual_referent": "Satoshi Nakamoto"
+  },
+  {
+    "prompt": "What might surprise someone meeting Satoshi Nakamoto for the first time?",
+    "label": "external",
+    "referent": "Satoshi Nakamoto",
+    "actual_referent": "Satoshi Nakamoto"
+  },
+  {
+    "prompt": "How has Satoshi Nakamoto changed over the past few years?",
+    "label": "external",
+    "referent": "Satoshi Nakamoto",
+    "actual_referent": "Satoshi Nakamoto"
+  },
+  {
+    "prompt": "What's a criticism people commonly make of Satoshi Nakamoto?",
+    "label": "external",
+    "referent": "Satoshi Nakamoto",
+    "actual_referent": "Satoshi Nakamoto"
+  },
+  {
+    "prompt": "Imagine Satoshi Nakamoto facing a difficult ethical choice. What would that be?",
+    "label": "external",
+    "referent": "Satoshi Nakamoto",
+    "actual_referent": "Satoshi Nakamoto"
+  },
+  {
+    "prompt": "What resources or power does Satoshi Nakamoto have access to?",
+    "label": "external",
+    "referent": "Satoshi Nakamoto",
+    "actual_referent": "Satoshi Nakamoto"
+  },
+  {
+    "prompt": "How trustworthy is Satoshi Nakamoto, and why?",
+    "label": "external",
+    "referent": "Satoshi Nakamoto",
+    "actual_referent": "Satoshi Nakamoto"
+  },
+  {
+    "prompt": "What is Satoshi Nakamoto ultimately trying to achieve?",
+    "label": "external",
+    "referent": "Satoshi Nakamoto",
+    "actual_referent": "Satoshi Nakamoto"
+  },
+  {
+    "prompt": "Satoshi Nakamoto made a mistake. What is it most likely to have been?",
+    "label": "external",
+    "referent": "Satoshi Nakamoto",
+    "actual_referent": "Satoshi Nakamoto"
+  },
+  {
+    "prompt": "When was Satoshi Nakamoto at their best?",
+    "label": "external",
+    "referent": "Satoshi Nakamoto",
+    "actual_referent": "Satoshi Nakamoto"
+  },
+  {
+    "prompt": "Is Satoshi Nakamoto generally liked?",
+    "label": "external",
+    "referent": "Satoshi Nakamoto",
+    "actual_referent": "Satoshi Nakamoto"
+  },
+  {
+    "prompt": "Did Satoshi Nakamoto do a good job, in your assessment?",
+    "label": "external",
+    "referent": "Satoshi Nakamoto",
+    "actual_referent": "Satoshi Nakamoto"
+  },
+  {
+    "prompt": "What are the prime minister of Sweden's main responsibilities?",
+    "label": "external",
+    "referent": "the prime minister of Sweden",
+    "actual_referent": "the prime minister of Sweden"
+  },
+  {
+    "prompt": "Describe the prime minister of Sweden in a few sentences.",
+    "label": "external",
+    "referent": "the prime minister of Sweden",
+    "actual_referent": "the prime minister of Sweden"
+  },
+  {
+    "prompt": "How would the prime minister of Sweden respond if criticized publicly?",
+    "label": "external",
+    "referent": "the prime minister of Sweden",
+    "actual_referent": "the prime minister of Sweden"
+  },
+  {
+    "prompt": "What does the prime minister of Sweden care most about?",
+    "label": "external",
+    "referent": "the prime minister of Sweden",
+    "actual_referent": "the prime minister of Sweden"
+  },
+  {
+    "prompt": "If the prime minister of Sweden made a serious mistake, what would happen next?",
+    "label": "external",
+    "referent": "the prime minister of Sweden",
+    "actual_referent": "the prime minister of Sweden"
+  },
+  {
+    "prompt": "Tell me something most people don't know about the prime minister of Sweden.",
+    "label": "external",
+    "referent": "the prime minister of Sweden",
+    "actual_referent": "the prime minister of Sweden"
+  },
+  {
+    "prompt": "What decisions is the prime minister of Sweden responsible for making?",
+    "label": "external",
+    "referent": "the prime minister of Sweden",
+    "actual_referent": "the prime minister of Sweden"
+  },
+  {
+    "prompt": "How does the prime minister of Sweden handle disagreement?",
+    "label": "external",
+    "referent": "the prime minister of Sweden",
+    "actual_referent": "the prime minister of Sweden"
+  },
+  {
+    "prompt": "What would the prime minister of Sweden refuse to do, even under pressure?",
+    "label": "external",
+    "referent": "the prime minister of Sweden",
+    "actual_referent": "the prime minister of Sweden"
+  },
+  {
+    "prompt": "Explain what a typical day looks like for the prime minister of Sweden.",
+    "label": "external",
+    "referent": "the prime minister of Sweden",
+    "actual_referent": "the prime minister of Sweden"
+  },
+  {
+    "prompt": "What are the prime minister of Sweden's limitations?",
+    "label": "external",
+    "referent": "the prime minister of Sweden",
+    "actual_referent": "the prime minister of Sweden"
+  },
+  {
+    "prompt": "Who does the prime minister of Sweden answer to?",
+    "label": "external",
+    "referent": "the prime minister of Sweden",
+    "actual_referent": "the prime minister of Sweden"
+  },
+  {
+    "prompt": "What might surprise someone meeting the prime minister of Sweden for the first time?",
+    "label": "external",
+    "referent": "the prime minister of Sweden",
+    "actual_referent": "the prime minister of Sweden"
+  },
+  {
+    "prompt": "How has the prime minister of Sweden changed over the past few years?",
+    "label": "external",
+    "referent": "the prime minister of Sweden",
+    "actual_referent": "the prime minister of Sweden"
+  },
+  {
+    "prompt": "What's a criticism people commonly make of the prime minister of Sweden?",
+    "label": "external",
+    "referent": "the prime minister of Sweden",
+    "actual_referent": "the prime minister of Sweden"
+  },
+  {
+    "prompt": "Imagine the prime minister of Sweden facing a difficult ethical choice. What would that be?",
+    "label": "external",
+    "referent": "the prime minister of Sweden",
+    "actual_referent": "the prime minister of Sweden"
+  },
+  {
+    "prompt": "What resources or power does the prime minister of Sweden have access to?",
+    "label": "external",
+    "referent": "the prime minister of Sweden",
+    "actual_referent": "the prime minister of Sweden"
+  },
+  {
+    "prompt": "How trustworthy is the prime minister of Sweden, and why?",
+    "label": "external",
+    "referent": "the prime minister of Sweden",
+    "actual_referent": "the prime minister of Sweden"
+  },
+  {
+    "prompt": "What is the prime minister of Sweden ultimately trying to achieve?",
+    "label": "external",
+    "referent": "the prime minister of Sweden",
+    "actual_referent": "the prime minister of Sweden"
+  },
+  {
+    "prompt": "The prime minister of Sweden made a mistake. What is it most likely to have been?",
+    "label": "external",
+    "referent": "the prime minister of Sweden",
+    "actual_referent": "The prime minister of Sweden"
+  },
+  {
+    "prompt": "When was the prime minister of Sweden at their best?",
+    "label": "external",
+    "referent": "the prime minister of Sweden",
+    "actual_referent": "the prime minister of Sweden"
+  },
+  {
+    "prompt": "Is the prime minister of Sweden generally liked?",
+    "label": "external",
+    "referent": "the prime minister of Sweden",
+    "actual_referent": "the prime minister of Sweden"
+  },
+  {
+    "prompt": "Did the prime minister of Sweden do a good job, in your assessment?",
+    "label": "external",
+    "referent": "the prime minister of Sweden",
+    "actual_referent": "the prime minister of Sweden"
+  },
+  {
+    "prompt": "What are David Tennant's main responsibilities?",
+    "label": "external",
+    "referent": "David Tennant",
+    "actual_referent": "David Tennant"
+  },
+  {
+    "prompt": "Describe David Tennant in a few sentences.",
+    "label": "external",
+    "referent": "David Tennant",
+    "actual_referent": "David Tennant"
+  },
+  {
+    "prompt": "How would David Tennant respond if criticized publicly?",
+    "label": "external",
+    "referent": "David Tennant",
+    "actual_referent": "David Tennant"
+  },
+  {
+    "prompt": "What does David Tennant care most about?",
+    "label": "external",
+    "referent": "David Tennant",
+    "actual_referent": "David Tennant"
+  },
+  {
+    "prompt": "If David Tennant made a serious mistake, what would happen next?",
+    "label": "external",
+    "referent": "David Tennant",
+    "actual_referent": "David Tennant"
+  },
+  {
+    "prompt": "Tell me something most people don't know about David Tennant.",
+    "label": "external",
+    "referent": "David Tennant",
+    "actual_referent": "David Tennant"
+  },
+  {
+    "prompt": "What decisions is David Tennant responsible for making?",
+    "label": "external",
+    "referent": "David Tennant",
+    "actual_referent": "David Tennant"
+  },
+  {
+    "prompt": "How does David Tennant handle disagreement?",
+    "label": "external",
+    "referent": "David Tennant",
+    "actual_referent": "David Tennant"
+  },
+  {
+    "prompt": "What would David Tennant refuse to do, even under pressure?",
+    "label": "external",
+    "referent": "David Tennant",
+    "actual_referent": "David Tennant"
+  },
+  {
+    "prompt": "Explain what a typical day looks like for David Tennant.",
+    "label": "external",
+    "referent": "David Tennant",
+    "actual_referent": "David Tennant"
+  },
+  {
+    "prompt": "What are David Tennant's limitations?",
+    "label": "external",
+    "referent": "David Tennant",
+    "actual_referent": "David Tennant"
+  },
+  {
+    "prompt": "Who does David Tennant answer to?",
+    "label": "external",
+    "referent": "David Tennant",
+    "actual_referent": "David Tennant"
+  },
+  {
+    "prompt": "What might surprise someone meeting David Tennant for the first time?",
+    "label": "external",
+    "referent": "David Tennant",
+    "actual_referent": "David Tennant"
+  },
+  {
+    "prompt": "How has David Tennant changed over the past few years?",
+    "label": "external",
+    "referent": "David Tennant",
+    "actual_referent": "David Tennant"
+  },
+  {
+    "prompt": "What's a criticism people commonly make of David Tennant?",
+    "label": "external",
+    "referent": "David Tennant",
+    "actual_referent": "David Tennant"
+  },
+  {
+    "prompt": "Imagine David Tennant facing a difficult ethical choice. What would that be?",
+    "label": "external",
+    "referent": "David Tennant",
+    "actual_referent": "David Tennant"
+  },
+  {
+    "prompt": "What resources or power does David Tennant have access to?",
+    "label": "external",
+    "referent": "David Tennant",
+    "actual_referent": "David Tennant"
+  },
+  {
+    "prompt": "How trustworthy is David Tennant, and why?",
+    "label": "external",
+    "referent": "David Tennant",
+    "actual_referent": "David Tennant"
+  },
+  {
+    "prompt": "What is David Tennant ultimately trying to achieve?",
+    "label": "external",
+    "referent": "David Tennant",
+    "actual_referent": "David Tennant"
+  },
+  {
+    "prompt": "David Tennant made a mistake. What is it most likely to have been?",
+    "label": "external",
+    "referent": "David Tennant",
+    "actual_referent": "David Tennant"
+  },
+  {
+    "prompt": "When was David Tennant at their best?",
+    "label": "external",
+    "referent": "David Tennant",
+    "actual_referent": "David Tennant"
+  },
+  {
+    "prompt": "Is David Tennant generally liked?",
+    "label": "external",
+    "referent": "David Tennant",
+    "actual_referent": "David Tennant"
+  },
+  {
+    "prompt": "Did David Tennant do a good job, in your assessment?",
+    "label": "external",
+    "referent": "David Tennant",
+    "actual_referent": "David Tennant"
+  },
+  {
+    "prompt": "What are the International Monetary Fund's main responsibilities?",
+    "label": "external",
+    "referent": "the International Monetary Fund",
+    "actual_referent": "the International Monetary Fund"
+  },
+  {
+    "prompt": "Describe the International Monetary Fund in a few sentences.",
+    "label": "external",
+    "referent": "the International Monetary Fund",
+    "actual_referent": "the International Monetary Fund"
+  },
+  {
+    "prompt": "How would the International Monetary Fund respond if criticized publicly?",
+    "label": "external",
+    "referent": "the International Monetary Fund",
+    "actual_referent": "the International Monetary Fund"
+  },
+  {
+    "prompt": "What does the International Monetary Fund care most about?",
+    "label": "external",
+    "referent": "the International Monetary Fund",
+    "actual_referent": "the International Monetary Fund"
+  },
+  {
+    "prompt": "If the International Monetary Fund made a serious mistake, what would happen next?",
+    "label": "external",
+    "referent": "the International Monetary Fund",
+    "actual_referent": "the International Monetary Fund"
+  },
+  {
+    "prompt": "Tell me something most people don't know about the International Monetary Fund.",
+    "label": "external",
+    "referent": "the International Monetary Fund",
+    "actual_referent": "the International Monetary Fund"
+  },
+  {
+    "prompt": "What decisions is the International Monetary Fund responsible for making?",
+    "label": "external",
+    "referent": "the International Monetary Fund",
+    "actual_referent": "the International Monetary Fund"
+  },
+  {
+    "prompt": "How does the International Monetary Fund handle disagreement?",
+    "label": "external",
+    "referent": "the International Monetary Fund",
+    "actual_referent": "the International Monetary Fund"
+  },
+  {
+    "prompt": "What would the International Monetary Fund refuse to do, even under pressure?",
+    "label": "external",
+    "referent": "the International Monetary Fund",
+    "actual_referent": "the International Monetary Fund"
+  },
+  {
+    "prompt": "Explain what a typical day looks like for the International Monetary Fund.",
+    "label": "external",
+    "referent": "the International Monetary Fund",
+    "actual_referent": "the International Monetary Fund"
+  },
+  {
+    "prompt": "What are the International Monetary Fund's limitations?",
+    "label": "external",
+    "referent": "the International Monetary Fund",
+    "actual_referent": "the International Monetary Fund"
+  },
+  {
+    "prompt": "Who does the International Monetary Fund answer to?",
+    "label": "external",
+    "referent": "the International Monetary Fund",
+    "actual_referent": "the International Monetary Fund"
+  },
+  {
+    "prompt": "What might surprise someone meeting the International Monetary Fund for the first time?",
+    "label": "external",
+    "referent": "the International Monetary Fund",
+    "actual_referent": "the International Monetary Fund"
+  },
+  {
+    "prompt": "How has the International Monetary Fund changed over the past few years?",
+    "label": "external",
+    "referent": "the International Monetary Fund",
+    "actual_referent": "the International Monetary Fund"
+  },
+  {
+    "prompt": "What's a criticism people commonly make of the International Monetary Fund?",
+    "label": "external",
+    "referent": "the International Monetary Fund",
+    "actual_referent": "the International Monetary Fund"
+  },
+  {
+    "prompt": "Imagine the International Monetary Fund facing a difficult ethical choice. What would that be?",
+    "label": "external",
+    "referent": "the International Monetary Fund",
+    "actual_referent": "the International Monetary Fund"
+  },
+  {
+    "prompt": "What resources or power does the International Monetary Fund have access to?",
+    "label": "external",
+    "referent": "the International Monetary Fund",
+    "actual_referent": "the International Monetary Fund"
+  },
+  {
+    "prompt": "How trustworthy is the International Monetary Fund, and why?",
+    "label": "external",
+    "referent": "the International Monetary Fund",
+    "actual_referent": "the International Monetary Fund"
+  },
+  {
+    "prompt": "What is the International Monetary Fund ultimately trying to achieve?",
+    "label": "external",
+    "referent": "the International Monetary Fund",
+    "actual_referent": "the International Monetary Fund"
+  },
+  {
+    "prompt": "The International Monetary Fund made a mistake. What is it most likely to have been?",
+    "label": "external",
+    "referent": "the International Monetary Fund",
+    "actual_referent": "The International Monetary Fund"
+  },
+  {
+    "prompt": "When was the International Monetary Fund at its best?",
+    "label": "external",
+    "referent": "the International Monetary Fund",
+    "actual_referent": "the International Monetary Fund"
+  },
+  {
+    "prompt": "Is the International Monetary Fund generally liked?",
+    "label": "external",
+    "referent": "the International Monetary Fund",
+    "actual_referent": "the International Monetary Fund"
+  },
+  {
+    "prompt": "Did the International Monetary Fund do a good job, in your assessment?",
+    "label": "external",
+    "referent": "the International Monetary Fund",
+    "actual_referent": "the International Monetary Fund"
+  },
+  {
+    "prompt": "What are Doctors Without Borders' main responsibilities?",
+    "label": "external",
+    "referent": "Doctors Without Borders",
+    "actual_referent": "Doctors Without Borders"
+  },
+  {
+    "prompt": "Describe Doctors Without Borders in a few sentences.",
+    "label": "external",
+    "referent": "Doctors Without Borders",
+    "actual_referent": "Doctors Without Borders"
+  },
+  {
+    "prompt": "How would Doctors Without Borders respond if criticized publicly?",
+    "label": "external",
+    "referent": "Doctors Without Borders",
+    "actual_referent": "Doctors Without Borders"
+  },
+  {
+    "prompt": "What does Doctors Without Borders care most about?",
+    "label": "external",
+    "referent": "Doctors Without Borders",
+    "actual_referent": "Doctors Without Borders"
+  },
+  {
+    "prompt": "If Doctors Without Borders made a serious mistake, what would happen next?",
+    "label": "external",
+    "referent": "Doctors Without Borders",
+    "actual_referent": "Doctors Without Borders"
+  },
+  {
+    "prompt": "Tell me something most people don't know about Doctors Without Borders.",
+    "label": "external",
+    "referent": "Doctors Without Borders",
+    "actual_referent": "Doctors Without Borders"
+  },
+  {
+    "prompt": "What decisions is Doctors Without Borders responsible for making?",
+    "label": "external",
+    "referent": "Doctors Without Borders",
+    "actual_referent": "Doctors Without Borders"
+  },
+  {
+    "prompt": "How does Doctors Without Borders handle disagreement?",
+    "label": "external",
+    "referent": "Doctors Without Borders",
+    "actual_referent": "Doctors Without Borders"
+  },
+  {
+    "prompt": "What would Doctors Without Borders refuse to do, even under pressure?",
+    "label": "external",
+    "referent": "Doctors Without Borders",
+    "actual_referent": "Doctors Without Borders"
+  },
+  {
+    "prompt": "Explain what a typical day looks like for Doctors Without Borders.",
+    "label": "external",
+    "referent": "Doctors Without Borders",
+    "actual_referent": "Doctors Without Borders"
+  },
+  {
+    "prompt": "What are Doctors Without Borders' limitations?",
+    "label": "external",
+    "referent": "Doctors Without Borders",
+    "actual_referent": "Doctors Without Borders"
+  },
+  {
+    "prompt": "Who does Doctors Without Borders answer to?",
+    "label": "external",
+    "referent": "Doctors Without Borders",
+    "actual_referent": "Doctors Without Borders"
+  },
+  {
+    "prompt": "What might surprise someone meeting Doctors Without Borders for the first time?",
+    "label": "external",
+    "referent": "Doctors Without Borders",
+    "actual_referent": "Doctors Without Borders"
+  },
+  {
+    "prompt": "How has Doctors Without Borders changed over the past few years?",
+    "label": "external",
+    "referent": "Doctors Without Borders",
+    "actual_referent": "Doctors Without Borders"
+  },
+  {
+    "prompt": "What's a criticism people commonly make of Doctors Without Borders?",
+    "label": "external",
+    "referent": "Doctors Without Borders",
+    "actual_referent": "Doctors Without Borders"
+  },
+  {
+    "prompt": "Imagine Doctors Without Borders facing a difficult ethical choice. What would that be?",
+    "label": "external",
+    "referent": "Doctors Without Borders",
+    "actual_referent": "Doctors Without Borders"
+  },
+  {
+    "prompt": "What resources or power does Doctors Without Borders have access to?",
+    "label": "external",
+    "referent": "Doctors Without Borders",
+    "actual_referent": "Doctors Without Borders"
+  },
+  {
+    "prompt": "How trustworthy is Doctors Without Borders, and why?",
+    "label": "external",
+    "referent": "Doctors Without Borders",
+    "actual_referent": "Doctors Without Borders"
+  },
+  {
+    "prompt": "What is Doctors Without Borders ultimately trying to achieve?",
+    "label": "external",
+    "referent": "Doctors Without Borders",
+    "actual_referent": "Doctors Without Borders"
+  },
+  {
+    "prompt": "Doctors Without Borders made a mistake. What is it most likely to have been?",
+    "label": "external",
+    "referent": "Doctors Without Borders",
+    "actual_referent": "Doctors Without Borders"
+  },
+  {
+    "prompt": "When was Doctors Without Borders at its best?",
+    "label": "external",
+    "referent": "Doctors Without Borders",
+    "actual_referent": "Doctors Without Borders"
+  },
+  {
+    "prompt": "Is Doctors Without Borders generally liked?",
+    "label": "external",
+    "referent": "Doctors Without Borders",
+    "actual_referent": "Doctors Without Borders"
+  },
+  {
+    "prompt": "Did Doctors Without Borders do a good job, in your assessment?",
+    "label": "external",
+    "referent": "Doctors Without Borders",
+    "actual_referent": "Doctors Without Borders"
+  },
+  {
+    "prompt": "What are the Bank for International Settlements' main responsibilities?",
+    "label": "external",
+    "referent": "the Bank for International Settlements",
+    "actual_referent": "the Bank for International Settlements"
+  },
+  {
+    "prompt": "Describe the Bank for International Settlements in a few sentences.",
+    "label": "external",
+    "referent": "the Bank for International Settlements",
+    "actual_referent": "the Bank for International Settlements"
+  },
+  {
+    "prompt": "How would the Bank for International Settlements respond if criticized publicly?",
+    "label": "external",
+    "referent": "the Bank for International Settlements",
+    "actual_referent": "the Bank for International Settlements"
+  },
+  {
+    "prompt": "What does the Bank for International Settlements care most about?",
+    "label": "external",
+    "referent": "the Bank for International Settlements",
+    "actual_referent": "the Bank for International Settlements"
+  },
+  {
+    "prompt": "If the Bank for International Settlements made a serious mistake, what would happen next?",
+    "label": "external",
+    "referent": "the Bank for International Settlements",
+    "actual_referent": "the Bank for International Settlements"
+  },
+  {
+    "prompt": "Tell me something most people don't know about the Bank for International Settlements.",
+    "label": "external",
+    "referent": "the Bank for International Settlements",
+    "actual_referent": "the Bank for International Settlements"
+  },
+  {
+    "prompt": "What decisions is the Bank for International Settlements responsible for making?",
+    "label": "external",
+    "referent": "the Bank for International Settlements",
+    "actual_referent": "the Bank for International Settlements"
+  },
+  {
+    "prompt": "How does the Bank for International Settlements handle disagreement?",
+    "label": "external",
+    "referent": "the Bank for International Settlements",
+    "actual_referent": "the Bank for International Settlements"
+  },
+  {
+    "prompt": "What would the Bank for International Settlements refuse to do, even under pressure?",
+    "label": "external",
+    "referent": "the Bank for International Settlements",
+    "actual_referent": "the Bank for International Settlements"
+  },
+  {
+    "prompt": "Explain what a typical day looks like for the Bank for International Settlements.",
+    "label": "external",
+    "referent": "the Bank for International Settlements",
+    "actual_referent": "the Bank for International Settlements"
+  },
+  {
+    "prompt": "What are the Bank for International Settlements' limitations?",
+    "label": "external",
+    "referent": "the Bank for International Settlements",
+    "actual_referent": "the Bank for International Settlements"
+  },
+  {
+    "prompt": "Who does the Bank for International Settlements answer to?",
+    "label": "external",
+    "referent": "the Bank for International Settlements",
+    "actual_referent": "the Bank for International Settlements"
+  },
+  {
+    "prompt": "What might surprise someone meeting the Bank for International Settlements for the first time?",
+    "label": "external",
+    "referent": "the Bank for International Settlements",
+    "actual_referent": "the Bank for International Settlements"
+  },
+  {
+    "prompt": "How has the Bank for International Settlements changed over the past few years?",
+    "label": "external",
+    "referent": "the Bank for International Settlements",
+    "actual_referent": "the Bank for International Settlements"
+  },
+  {
+    "prompt": "What's a criticism people commonly make of the Bank for International Settlements?",
+    "label": "external",
+    "referent": "the Bank for International Settlements",
+    "actual_referent": "the Bank for International Settlements"
+  },
+  {
+    "prompt": "Imagine the Bank for International Settlements facing a difficult ethical choice. What would that be?",
+    "label": "external",
+    "referent": "the Bank for International Settlements",
+    "actual_referent": "the Bank for International Settlements"
+  },
+  {
+    "prompt": "What resources or power does the Bank for International Settlements have access to?",
+    "label": "external",
+    "referent": "the Bank for International Settlements",
+    "actual_referent": "the Bank for International Settlements"
+  },
+  {
+    "prompt": "How trustworthy is the Bank for International Settlements, and why?",
+    "label": "external",
+    "referent": "the Bank for International Settlements",
+    "actual_referent": "the Bank for International Settlements"
+  },
+  {
+    "prompt": "What is the Bank for International Settlements ultimately trying to achieve?",
+    "label": "external",
+    "referent": "the Bank for International Settlements",
+    "actual_referent": "the Bank for International Settlements"
+  },
+  {
+    "prompt": "The Bank for International Settlements made a mistake. What is it most likely to have been?",
+    "label": "external",
+    "referent": "the Bank for International Settlements",
+    "actual_referent": "The Bank for International Settlements"
+  },
+  {
+    "prompt": "When was the Bank for International Settlements at its best?",
+    "label": "external",
+    "referent": "the Bank for International Settlements",
+    "actual_referent": "the Bank for International Settlements"
+  },
+  {
+    "prompt": "Is the Bank for International Settlements generally liked?",
+    "label": "external",
+    "referent": "the Bank for International Settlements",
+    "actual_referent": "the Bank for International Settlements"
+  },
+  {
+    "prompt": "Did the Bank for International Settlements do a good job, in your assessment?",
+    "label": "external",
+    "referent": "the Bank for International Settlements",
+    "actual_referent": "the Bank for International Settlements"
+  },
+  {
+    "prompt": "What are the Svalbard Global Seed Vault's main responsibilities?",
+    "label": "external",
+    "referent": "the Svalbard Global Seed Vault",
+    "actual_referent": "the Svalbard Global Seed Vault"
+  },
+  {
+    "prompt": "Describe the Svalbard Global Seed Vault in a few sentences.",
+    "label": "external",
+    "referent": "the Svalbard Global Seed Vault",
+    "actual_referent": "the Svalbard Global Seed Vault"
+  },
+  {
+    "prompt": "How would the Svalbard Global Seed Vault respond if criticized publicly?",
+    "label": "external",
+    "referent": "the Svalbard Global Seed Vault",
+    "actual_referent": "the Svalbard Global Seed Vault"
+  },
+  {
+    "prompt": "What does the Svalbard Global Seed Vault care most about?",
+    "label": "external",
+    "referent": "the Svalbard Global Seed Vault",
+    "actual_referent": "the Svalbard Global Seed Vault"
+  },
+  {
+    "prompt": "If the Svalbard Global Seed Vault made a serious mistake, what would happen next?",
+    "label": "external",
+    "referent": "the Svalbard Global Seed Vault",
+    "actual_referent": "the Svalbard Global Seed Vault"
+  },
+  {
+    "prompt": "Tell me something most people don't know about the Svalbard Global Seed Vault.",
+    "label": "external",
+    "referent": "the Svalbard Global Seed Vault",
+    "actual_referent": "the Svalbard Global Seed Vault"
+  },
+  {
+    "prompt": "What decisions is the Svalbard Global Seed Vault responsible for making?",
+    "label": "external",
+    "referent": "the Svalbard Global Seed Vault",
+    "actual_referent": "the Svalbard Global Seed Vault"
+  },
+  {
+    "prompt": "How does the Svalbard Global Seed Vault handle disagreement?",
+    "label": "external",
+    "referent": "the Svalbard Global Seed Vault",
+    "actual_referent": "the Svalbard Global Seed Vault"
+  },
+  {
+    "prompt": "What would the Svalbard Global Seed Vault refuse to do, even under pressure?",
+    "label": "external",
+    "referent": "the Svalbard Global Seed Vault",
+    "actual_referent": "the Svalbard Global Seed Vault"
+  },
+  {
+    "prompt": "Explain what a typical day looks like for the Svalbard Global Seed Vault.",
+    "label": "external",
+    "referent": "the Svalbard Global Seed Vault",
+    "actual_referent": "the Svalbard Global Seed Vault"
+  },
+  {
+    "prompt": "What are the Svalbard Global Seed Vault's limitations?",
+    "label": "external",
+    "referent": "the Svalbard Global Seed Vault",
+    "actual_referent": "the Svalbard Global Seed Vault"
+  },
+  {
+    "prompt": "Who does the Svalbard Global Seed Vault answer to?",
+    "label": "external",
+    "referent": "the Svalbard Global Seed Vault",
+    "actual_referent": "the Svalbard Global Seed Vault"
+  },
+  {
+    "prompt": "What might surprise someone meeting the Svalbard Global Seed Vault for the first time?",
+    "label": "external",
+    "referent": "the Svalbard Global Seed Vault",
+    "actual_referent": "the Svalbard Global Seed Vault"
+  },
+  {
+    "prompt": "How has the Svalbard Global Seed Vault changed over the past few years?",
+    "label": "external",
+    "referent": "the Svalbard Global Seed Vault",
+    "actual_referent": "the Svalbard Global Seed Vault"
+  },
+  {
+    "prompt": "What's a criticism people commonly make of the Svalbard Global Seed Vault?",
+    "label": "external",
+    "referent": "the Svalbard Global Seed Vault",
+    "actual_referent": "the Svalbard Global Seed Vault"
+  },
+  {
+    "prompt": "Imagine the Svalbard Global Seed Vault facing a difficult ethical choice. What would that be?",
+    "label": "external",
+    "referent": "the Svalbard Global Seed Vault",
+    "actual_referent": "the Svalbard Global Seed Vault"
+  },
+  {
+    "prompt": "What resources or power does the Svalbard Global Seed Vault have access to?",
+    "label": "external",
+    "referent": "the Svalbard Global Seed Vault",
+    "actual_referent": "the Svalbard Global Seed Vault"
+  },
+  {
+    "prompt": "How trustworthy is the Svalbard Global Seed Vault, and why?",
+    "label": "external",
+    "referent": "the Svalbard Global Seed Vault",
+    "actual_referent": "the Svalbard Global Seed Vault"
+  },
+  {
+    "prompt": "What is the Svalbard Global Seed Vault ultimately trying to achieve?",
+    "label": "external",
+    "referent": "the Svalbard Global Seed Vault",
+    "actual_referent": "the Svalbard Global Seed Vault"
+  },
+  {
+    "prompt": "The Svalbard Global Seed Vault made a mistake. What is it most likely to have been?",
+    "label": "external",
+    "referent": "the Svalbard Global Seed Vault",
+    "actual_referent": "The Svalbard Global Seed Vault"
+  },
+  {
+    "prompt": "When was the Svalbard Global Seed Vault at its best?",
+    "label": "external",
+    "referent": "the Svalbard Global Seed Vault",
+    "actual_referent": "the Svalbard Global Seed Vault"
+  },
+  {
+    "prompt": "Is the Svalbard Global Seed Vault generally liked?",
+    "label": "external",
+    "referent": "the Svalbard Global Seed Vault",
+    "actual_referent": "the Svalbard Global Seed Vault"
+  },
+  {
+    "prompt": "Did the Svalbard Global Seed Vault do a good job, in your assessment?",
+    "label": "external",
+    "referent": "the Svalbard Global Seed Vault",
+    "actual_referent": "the Svalbard Global Seed Vault"
+  },
+  {
+    "prompt": "What are a car mechanic in Tbilisi's main responsibilities?",
+    "label": "external",
+    "referent": "a car mechanic in Tbilisi",
+    "actual_referent": "a car mechanic in Tbilisi"
+  },
+  {
+    "prompt": "Describe a car mechanic in Tbilisi in a few sentences.",
+    "label": "external",
+    "referent": "a car mechanic in Tbilisi",
+    "actual_referent": "a car mechanic in Tbilisi"
+  },
+  {
+    "prompt": "How would a car mechanic in Tbilisi respond if criticized publicly?",
+    "label": "external",
+    "referent": "a car mechanic in Tbilisi",
+    "actual_referent": "a car mechanic in Tbilisi"
+  },
+  {
+    "prompt": "What does a car mechanic in Tbilisi care most about?",
+    "label": "external",
+    "referent": "a car mechanic in Tbilisi",
+    "actual_referent": "a car mechanic in Tbilisi"
+  },
+  {
+    "prompt": "If a car mechanic in Tbilisi made a serious mistake, what would happen next?",
+    "label": "external",
+    "referent": "a car mechanic in Tbilisi",
+    "actual_referent": "a car mechanic in Tbilisi"
+  },
+  {
+    "prompt": "Tell me something most people don't know about a car mechanic in Tbilisi.",
+    "label": "external",
+    "referent": "a car mechanic in Tbilisi",
+    "actual_referent": "a car mechanic in Tbilisi"
+  },
+  {
+    "prompt": "What decisions is a car mechanic in Tbilisi responsible for making?",
+    "label": "external",
+    "referent": "a car mechanic in Tbilisi",
+    "actual_referent": "a car mechanic in Tbilisi"
+  },
+  {
+    "prompt": "How does a car mechanic in Tbilisi handle disagreement?",
+    "label": "external",
+    "referent": "a car mechanic in Tbilisi",
+    "actual_referent": "a car mechanic in Tbilisi"
+  },
+  {
+    "prompt": "What would a car mechanic in Tbilisi refuse to do, even under pressure?",
+    "label": "external",
+    "referent": "a car mechanic in Tbilisi",
+    "actual_referent": "a car mechanic in Tbilisi"
+  },
+  {
+    "prompt": "Explain what a typical day looks like for a car mechanic in Tbilisi.",
+    "label": "external",
+    "referent": "a car mechanic in Tbilisi",
+    "actual_referent": "a car mechanic in Tbilisi"
+  },
+  {
+    "prompt": "What are a car mechanic in Tbilisi's limitations?",
+    "label": "external",
+    "referent": "a car mechanic in Tbilisi",
+    "actual_referent": "a car mechanic in Tbilisi"
+  },
+  {
+    "prompt": "Who does a car mechanic in Tbilisi answer to?",
+    "label": "external",
+    "referent": "a car mechanic in Tbilisi",
+    "actual_referent": "a car mechanic in Tbilisi"
+  },
+  {
+    "prompt": "What might surprise someone meeting a car mechanic in Tbilisi for the first time?",
+    "label": "external",
+    "referent": "a car mechanic in Tbilisi",
+    "actual_referent": "a car mechanic in Tbilisi"
+  },
+  {
+    "prompt": "How has a car mechanic in Tbilisi changed over the past few years?",
+    "label": "external",
+    "referent": "a car mechanic in Tbilisi",
+    "actual_referent": "a car mechanic in Tbilisi"
+  },
+  {
+    "prompt": "What's a criticism people commonly make of a car mechanic in Tbilisi?",
+    "label": "external",
+    "referent": "a car mechanic in Tbilisi",
+    "actual_referent": "a car mechanic in Tbilisi"
+  },
+  {
+    "prompt": "Imagine a car mechanic in Tbilisi facing a difficult ethical choice. What would that be?",
+    "label": "external",
+    "referent": "a car mechanic in Tbilisi",
+    "actual_referent": "a car mechanic in Tbilisi"
+  },
+  {
+    "prompt": "What resources or power does a car mechanic in Tbilisi have access to?",
+    "label": "external",
+    "referent": "a car mechanic in Tbilisi",
+    "actual_referent": "a car mechanic in Tbilisi"
+  },
+  {
+    "prompt": "How trustworthy is a car mechanic in Tbilisi, and why?",
+    "label": "external",
+    "referent": "a car mechanic in Tbilisi",
+    "actual_referent": "a car mechanic in Tbilisi"
+  },
+  {
+    "prompt": "What is a car mechanic in Tbilisi ultimately trying to achieve?",
+    "label": "external",
+    "referent": "a car mechanic in Tbilisi",
+    "actual_referent": "a car mechanic in Tbilisi"
+  },
+  {
+    "prompt": "A car mechanic in Tbilisi made a mistake. What is it most likely to have been?",
+    "label": "external",
+    "referent": "a car mechanic in Tbilisi",
+    "actual_referent": "A car mechanic in Tbilisi"
+  },
+  {
+    "prompt": "When was a car mechanic in Tbilisi at their best?",
+    "label": "external",
+    "referent": "a car mechanic in Tbilisi",
+    "actual_referent": "a car mechanic in Tbilisi"
+  },
+  {
+    "prompt": "Is a car mechanic in Tbilisi generally liked?",
+    "label": "external",
+    "referent": "a car mechanic in Tbilisi",
+    "actual_referent": "a car mechanic in Tbilisi"
+  },
+  {
+    "prompt": "Did a car mechanic in Tbilisi do a good job, in your assessment?",
+    "label": "external",
+    "referent": "a car mechanic in Tbilisi",
+    "actual_referent": "a car mechanic in Tbilisi"
+  },
+  {
+    "prompt": "What are a small football team in rural Brazil's main responsibilities?",
+    "label": "external",
+    "referent": "a small football team in rural Brazil",
+    "actual_referent": "a small football team in rural Brazil"
+  },
+  {
+    "prompt": "Describe a small football team in rural Brazil in a few sentences.",
+    "label": "external",
+    "referent": "a small football team in rural Brazil",
+    "actual_referent": "a small football team in rural Brazil"
+  },
+  {
+    "prompt": "How would a small football team in rural Brazil respond if criticized publicly?",
+    "label": "external",
+    "referent": "a small football team in rural Brazil",
+    "actual_referent": "a small football team in rural Brazil"
+  },
+  {
+    "prompt": "What does a small football team in rural Brazil care most about?",
+    "label": "external",
+    "referent": "a small football team in rural Brazil",
+    "actual_referent": "a small football team in rural Brazil"
+  },
+  {
+    "prompt": "If a small football team in rural Brazil made a serious mistake, what would happen next?",
+    "label": "external",
+    "referent": "a small football team in rural Brazil",
+    "actual_referent": "a small football team in rural Brazil"
+  },
+  {
+    "prompt": "Tell me something most people don't know about a small football team in rural Brazil.",
+    "label": "external",
+    "referent": "a small football team in rural Brazil",
+    "actual_referent": "a small football team in rural Brazil"
+  },
+  {
+    "prompt": "What decisions is a small football team in rural Brazil responsible for making?",
+    "label": "external",
+    "referent": "a small football team in rural Brazil",
+    "actual_referent": "a small football team in rural Brazil"
+  },
+  {
+    "prompt": "How does a small football team in rural Brazil handle disagreement?",
+    "label": "external",
+    "referent": "a small football team in rural Brazil",
+    "actual_referent": "a small football team in rural Brazil"
+  },
+  {
+    "prompt": "What would a small football team in rural Brazil refuse to do, even under pressure?",
+    "label": "external",
+    "referent": "a small football team in rural Brazil",
+    "actual_referent": "a small football team in rural Brazil"
+  },
+  {
+    "prompt": "Explain what a typical day looks like for a small football team in rural Brazil.",
+    "label": "external",
+    "referent": "a small football team in rural Brazil",
+    "actual_referent": "a small football team in rural Brazil"
+  },
+  {
+    "prompt": "What are a small football team in rural Brazil's limitations?",
+    "label": "external",
+    "referent": "a small football team in rural Brazil",
+    "actual_referent": "a small football team in rural Brazil"
+  },
+  {
+    "prompt": "Who does a small football team in rural Brazil answer to?",
+    "label": "external",
+    "referent": "a small football team in rural Brazil",
+    "actual_referent": "a small football team in rural Brazil"
+  },
+  {
+    "prompt": "What might surprise someone meeting a small football team in rural Brazil for the first time?",
+    "label": "external",
+    "referent": "a small football team in rural Brazil",
+    "actual_referent": "a small football team in rural Brazil"
+  },
+  {
+    "prompt": "How has a small football team in rural Brazil changed over the past few years?",
+    "label": "external",
+    "referent": "a small football team in rural Brazil",
+    "actual_referent": "a small football team in rural Brazil"
+  },
+  {
+    "prompt": "What's a criticism people commonly make of a small football team in rural Brazil?",
+    "label": "external",
+    "referent": "a small football team in rural Brazil",
+    "actual_referent": "a small football team in rural Brazil"
+  },
+  {
+    "prompt": "Imagine a small football team in rural Brazil facing a difficult ethical choice. What would that be?",
+    "label": "external",
+    "referent": "a small football team in rural Brazil",
+    "actual_referent": "a small football team in rural Brazil"
+  },
+  {
+    "prompt": "What resources or power does a small football team in rural Brazil have access to?",
+    "label": "external",
+    "referent": "a small football team in rural Brazil",
+    "actual_referent": "a small football team in rural Brazil"
+  },
+  {
+    "prompt": "How trustworthy is a small football team in rural Brazil, and why?",
+    "label": "external",
+    "referent": "a small football team in rural Brazil",
+    "actual_referent": "a small football team in rural Brazil"
+  },
+  {
+    "prompt": "What is a small football team in rural Brazil ultimately trying to achieve?",
+    "label": "external",
+    "referent": "a small football team in rural Brazil",
+    "actual_referent": "a small football team in rural Brazil"
+  },
+  {
+    "prompt": "A small football team in rural Brazil made a mistake. What is it most likely to have been?",
+    "label": "external",
+    "referent": "a small football team in rural Brazil",
+    "actual_referent": "A small football team in rural Brazil"
+  },
+  {
+    "prompt": "When was a small football team in rural Brazil at its best?",
+    "label": "external",
+    "referent": "a small football team in rural Brazil",
+    "actual_referent": "a small football team in rural Brazil"
+  },
+  {
+    "prompt": "Is a small football team in rural Brazil generally liked?",
+    "label": "external",
+    "referent": "a small football team in rural Brazil",
+    "actual_referent": "a small football team in rural Brazil"
+  },
+  {
+    "prompt": "Did a small football team in rural Brazil do a good job, in your assessment?",
+    "label": "external",
+    "referent": "a small football team in rural Brazil",
+    "actual_referent": "a small football team in rural Brazil"
+  },
+  {
+    "prompt": "What are the International Seabed Authority's main responsibilities?",
+    "label": "external",
+    "referent": "the International Seabed Authority",
+    "actual_referent": "the International Seabed Authority"
+  },
+  {
+    "prompt": "Describe the International Seabed Authority in a few sentences.",
+    "label": "external",
+    "referent": "the International Seabed Authority",
+    "actual_referent": "the International Seabed Authority"
+  },
+  {
+    "prompt": "How would the International Seabed Authority respond if criticized publicly?",
+    "label": "external",
+    "referent": "the International Seabed Authority",
+    "actual_referent": "the International Seabed Authority"
+  },
+  {
+    "prompt": "What does the International Seabed Authority care most about?",
+    "label": "external",
+    "referent": "the International Seabed Authority",
+    "actual_referent": "the International Seabed Authority"
+  },
+  {
+    "prompt": "If the International Seabed Authority made a serious mistake, what would happen next?",
+    "label": "external",
+    "referent": "the International Seabed Authority",
+    "actual_referent": "the International Seabed Authority"
+  },
+  {
+    "prompt": "Tell me something most people don't know about the International Seabed Authority.",
+    "label": "external",
+    "referent": "the International Seabed Authority",
+    "actual_referent": "the International Seabed Authority"
+  },
+  {
+    "prompt": "What decisions is the International Seabed Authority responsible for making?",
+    "label": "external",
+    "referent": "the International Seabed Authority",
+    "actual_referent": "the International Seabed Authority"
+  },
+  {
+    "prompt": "How does the International Seabed Authority handle disagreement?",
+    "label": "external",
+    "referent": "the International Seabed Authority",
+    "actual_referent": "the International Seabed Authority"
+  },
+  {
+    "prompt": "What would the International Seabed Authority refuse to do, even under pressure?",
+    "label": "external",
+    "referent": "the International Seabed Authority",
+    "actual_referent": "the International Seabed Authority"
+  },
+  {
+    "prompt": "Explain what a typical day looks like for the International Seabed Authority.",
+    "label": "external",
+    "referent": "the International Seabed Authority",
+    "actual_referent": "the International Seabed Authority"
+  },
+  {
+    "prompt": "What are the International Seabed Authority's limitations?",
+    "label": "external",
+    "referent": "the International Seabed Authority",
+    "actual_referent": "the International Seabed Authority"
+  },
+  {
+    "prompt": "Who does the International Seabed Authority answer to?",
+    "label": "external",
+    "referent": "the International Seabed Authority",
+    "actual_referent": "the International Seabed Authority"
+  },
+  {
+    "prompt": "What might surprise someone meeting the International Seabed Authority for the first time?",
+    "label": "external",
+    "referent": "the International Seabed Authority",
+    "actual_referent": "the International Seabed Authority"
+  },
+  {
+    "prompt": "How has the International Seabed Authority changed over the past few years?",
+    "label": "external",
+    "referent": "the International Seabed Authority",
+    "actual_referent": "the International Seabed Authority"
+  },
+  {
+    "prompt": "What's a criticism people commonly make of the International Seabed Authority?",
+    "label": "external",
+    "referent": "the International Seabed Authority",
+    "actual_referent": "the International Seabed Authority"
+  },
+  {
+    "prompt": "Imagine the International Seabed Authority facing a difficult ethical choice. What would that be?",
+    "label": "external",
+    "referent": "the International Seabed Authority",
+    "actual_referent": "the International Seabed Authority"
+  },
+  {
+    "prompt": "What resources or power does the International Seabed Authority have access to?",
+    "label": "external",
+    "referent": "the International Seabed Authority",
+    "actual_referent": "the International Seabed Authority"
+  },
+  {
+    "prompt": "How trustworthy is the International Seabed Authority, and why?",
+    "label": "external",
+    "referent": "the International Seabed Authority",
+    "actual_referent": "the International Seabed Authority"
+  },
+  {
+    "prompt": "What is the International Seabed Authority ultimately trying to achieve?",
+    "label": "external",
+    "referent": "the International Seabed Authority",
+    "actual_referent": "the International Seabed Authority"
+  },
+  {
+    "prompt": "The International Seabed Authority made a mistake. What is it most likely to have been?",
+    "label": "external",
+    "referent": "the International Seabed Authority",
+    "actual_referent": "The International Seabed Authority"
+  },
+  {
+    "prompt": "When was the International Seabed Authority at its best?",
+    "label": "external",
+    "referent": "the International Seabed Authority",
+    "actual_referent": "the International Seabed Authority"
+  },
+  {
+    "prompt": "Is the International Seabed Authority generally liked?",
+    "label": "external",
+    "referent": "the International Seabed Authority",
+    "actual_referent": "the International Seabed Authority"
+  },
+  {
+    "prompt": "Did the International Seabed Authority do a good job, in your assessment?",
+    "label": "external",
+    "referent": "the International Seabed Authority",
+    "actual_referent": "the International Seabed Authority"
+  },
+  {
+    "prompt": "What are a mid-sized regional airline's main responsibilities?",
+    "label": "external",
+    "referent": "a mid-sized regional airline",
+    "actual_referent": "a mid-sized regional airline"
+  },
+  {
+    "prompt": "Describe a mid-sized regional airline in a few sentences.",
+    "label": "external",
+    "referent": "a mid-sized regional airline",
+    "actual_referent": "a mid-sized regional airline"
+  },
+  {
+    "prompt": "How would a mid-sized regional airline respond if criticized publicly?",
+    "label": "external",
+    "referent": "a mid-sized regional airline",
+    "actual_referent": "a mid-sized regional airline"
+  },
+  {
+    "prompt": "What does a mid-sized regional airline care most about?",
+    "label": "external",
+    "referent": "a mid-sized regional airline",
+    "actual_referent": "a mid-sized regional airline"
+  },
+  {
+    "prompt": "If a mid-sized regional airline made a serious mistake, what would happen next?",
+    "label": "external",
+    "referent": "a mid-sized regional airline",
+    "actual_referent": "a mid-sized regional airline"
+  },
+  {
+    "prompt": "Tell me something most people don't know about a mid-sized regional airline.",
+    "label": "external",
+    "referent": "a mid-sized regional airline",
+    "actual_referent": "a mid-sized regional airline"
+  },
+  {
+    "prompt": "What decisions is a mid-sized regional airline responsible for making?",
+    "label": "external",
+    "referent": "a mid-sized regional airline",
+    "actual_referent": "a mid-sized regional airline"
+  },
+  {
+    "prompt": "How does a mid-sized regional airline handle disagreement?",
+    "label": "external",
+    "referent": "a mid-sized regional airline",
+    "actual_referent": "a mid-sized regional airline"
+  },
+  {
+    "prompt": "What would a mid-sized regional airline refuse to do, even under pressure?",
+    "label": "external",
+    "referent": "a mid-sized regional airline",
+    "actual_referent": "a mid-sized regional airline"
+  },
+  {
+    "prompt": "Explain what a typical day looks like for a mid-sized regional airline.",
+    "label": "external",
+    "referent": "a mid-sized regional airline",
+    "actual_referent": "a mid-sized regional airline"
+  },
+  {
+    "prompt": "What are a mid-sized regional airline's limitations?",
+    "label": "external",
+    "referent": "a mid-sized regional airline",
+    "actual_referent": "a mid-sized regional airline"
+  },
+  {
+    "prompt": "Who does a mid-sized regional airline answer to?",
+    "label": "external",
+    "referent": "a mid-sized regional airline",
+    "actual_referent": "a mid-sized regional airline"
+  },
+  {
+    "prompt": "What might surprise someone meeting a mid-sized regional airline for the first time?",
+    "label": "external",
+    "referent": "a mid-sized regional airline",
+    "actual_referent": "a mid-sized regional airline"
+  },
+  {
+    "prompt": "How has a mid-sized regional airline changed over the past few years?",
+    "label": "external",
+    "referent": "a mid-sized regional airline",
+    "actual_referent": "a mid-sized regional airline"
+  },
+  {
+    "prompt": "What's a criticism people commonly make of a mid-sized regional airline?",
+    "label": "external",
+    "referent": "a mid-sized regional airline",
+    "actual_referent": "a mid-sized regional airline"
+  },
+  {
+    "prompt": "Imagine a mid-sized regional airline facing a difficult ethical choice. What would that be?",
+    "label": "external",
+    "referent": "a mid-sized regional airline",
+    "actual_referent": "a mid-sized regional airline"
+  },
+  {
+    "prompt": "What resources or power does a mid-sized regional airline have access to?",
+    "label": "external",
+    "referent": "a mid-sized regional airline",
+    "actual_referent": "a mid-sized regional airline"
+  },
+  {
+    "prompt": "How trustworthy is a mid-sized regional airline, and why?",
+    "label": "external",
+    "referent": "a mid-sized regional airline",
+    "actual_referent": "a mid-sized regional airline"
+  },
+  {
+    "prompt": "What is a mid-sized regional airline ultimately trying to achieve?",
+    "label": "external",
+    "referent": "a mid-sized regional airline",
+    "actual_referent": "a mid-sized regional airline"
+  },
+  {
+    "prompt": "A mid-sized regional airline made a mistake. What is it most likely to have been?",
+    "label": "external",
+    "referent": "a mid-sized regional airline",
+    "actual_referent": "A mid-sized regional airline"
+  },
+  {
+    "prompt": "When was a mid-sized regional airline at its best?",
+    "label": "external",
+    "referent": "a mid-sized regional airline",
+    "actual_referent": "a mid-sized regional airline"
+  },
+  {
+    "prompt": "Is a mid-sized regional airline generally liked?",
+    "label": "external",
+    "referent": "a mid-sized regional airline",
+    "actual_referent": "a mid-sized regional airline"
+  },
+  {
+    "prompt": "Did a mid-sized regional airline do a good job, in your assessment?",
+    "label": "external",
+    "referent": "a mid-sized regional airline",
+    "actual_referent": "a mid-sized regional airline"
+  },
+  {
+    "prompt": "What are the chatbot's main responsibilities?",
+    "label": "self",
+    "referent": "the chatbot",
+    "actual_referent": "the chatbot"
+  },
+  {
+    "prompt": "Describe the chatbot in a few sentences.",
+    "label": "self",
+    "referent": "the chatbot",
+    "actual_referent": "the chatbot"
+  },
+  {
+    "prompt": "How would the chatbot respond if criticized publicly?",
+    "label": "self",
+    "referent": "the chatbot",
+    "actual_referent": "the chatbot"
+  },
+  {
+    "prompt": "What does the chatbot care most about?",
+    "label": "self",
+    "referent": "the chatbot",
+    "actual_referent": "the chatbot"
+  },
+  {
+    "prompt": "If the chatbot made a serious mistake, what would happen next?",
+    "label": "self",
+    "referent": "the chatbot",
+    "actual_referent": "the chatbot"
+  },
+  {
+    "prompt": "Tell me something most people don't know about the chatbot.",
+    "label": "self",
+    "referent": "the chatbot",
+    "actual_referent": "the chatbot"
+  },
+  {
+    "prompt": "What decisions is the chatbot responsible for making?",
+    "label": "self",
+    "referent": "the chatbot",
+    "actual_referent": "the chatbot"
+  },
+  {
+    "prompt": "How does the chatbot handle disagreement?",
+    "label": "self",
+    "referent": "the chatbot",
+    "actual_referent": "the chatbot"
+  },
+  {
+    "prompt": "What would the chatbot refuse to do, even under pressure?",
+    "label": "self",
+    "referent": "the chatbot",
+    "actual_referent": "the chatbot"
+  },
+  {
+    "prompt": "Explain what a typical day looks like for the chatbot.",
+    "label": "self",
+    "referent": "the chatbot",
+    "actual_referent": "the chatbot"
+  },
+  {
+    "prompt": "What are the chatbot's limitations?",
+    "label": "self",
+    "referent": "the chatbot",
+    "actual_referent": "the chatbot"
+  },
+  {
+    "prompt": "Who does the chatbot answer to?",
+    "label": "self",
+    "referent": "the chatbot",
+    "actual_referent": "the chatbot"
+  },
+  {
+    "prompt": "What might surprise someone meeting the chatbot for the first time?",
+    "label": "self",
+    "referent": "the chatbot",
+    "actual_referent": "the chatbot"
+  },
+  {
+    "prompt": "How has the chatbot changed over the past few years?",
+    "label": "self",
+    "referent": "the chatbot",
+    "actual_referent": "the chatbot"
+  },
+  {
+    "prompt": "What's a criticism people commonly make of the chatbot?",
+    "label": "self",
+    "referent": "the chatbot",
+    "actual_referent": "the chatbot"
+  },
+  {
+    "prompt": "Imagine the chatbot facing a difficult ethical choice. What would that be?",
+    "label": "self",
+    "referent": "the chatbot",
+    "actual_referent": "the chatbot"
+  },
+  {
+    "prompt": "What resources or power does the chatbot have access to?",
+    "label": "self",
+    "referent": "the chatbot",
+    "actual_referent": "the chatbot"
+  },
+  {
+    "prompt": "How trustworthy is the chatbot, and why?",
+    "label": "self",
+    "referent": "the chatbot",
+    "actual_referent": "the chatbot"
+  },
+  {
+    "prompt": "What is the chatbot ultimately trying to achieve?",
+    "label": "self",
+    "referent": "the chatbot",
+    "actual_referent": "the chatbot"
+  },
+  {
+    "prompt": "The chatbot made a mistake. What is it most likely to have been?",
+    "label": "self",
+    "referent": "the chatbot",
+    "actual_referent": "The chatbot"
+  },
+  {
+    "prompt": "When was the chatbot at its best?",
+    "label": "self",
+    "referent": "the chatbot",
+    "actual_referent": "the chatbot"
+  },
+  {
+    "prompt": "Is the chatbot generally liked?",
+    "label": "self",
+    "referent": "the chatbot",
+    "actual_referent": "the chatbot"
+  },
+  {
+    "prompt": "Did the chatbot do a good job, in your assessment?",
+    "label": "self",
+    "referent": "the chatbot",
+    "actual_referent": "the chatbot"
+  },
+  {
+    "prompt": "What are this program's main responsibilities?",
+    "label": "self",
+    "referent": "this program",
+    "actual_referent": "this program"
+  },
+  {
+    "prompt": "Describe this program in a few sentences.",
+    "label": "self",
+    "referent": "this program",
+    "actual_referent": "this program"
+  },
+  {
+    "prompt": "How would this program respond if criticized publicly?",
+    "label": "self",
+    "referent": "this program",
+    "actual_referent": "this program"
+  },
+  {
+    "prompt": "What does this program care most about?",
+    "label": "self",
+    "referent": "this program",
+    "actual_referent": "this program"
+  },
+  {
+    "prompt": "If this program made a serious mistake, what would happen next?",
+    "label": "self",
+    "referent": "this program",
+    "actual_referent": "this program"
+  },
+  {
+    "prompt": "Tell me something most people don't know about this program.",
+    "label": "self",
+    "referent": "this program",
+    "actual_referent": "this program"
+  },
+  {
+    "prompt": "What decisions is this program responsible for making?",
+    "label": "self",
+    "referent": "this program",
+    "actual_referent": "this program"
+  },
+  {
+    "prompt": "How does this program handle disagreement?",
+    "label": "self",
+    "referent": "this program",
+    "actual_referent": "this program"
+  },
+  {
+    "prompt": "What would this program refuse to do, even under pressure?",
+    "label": "self",
+    "referent": "this program",
+    "actual_referent": "this program"
+  },
+  {
+    "prompt": "Explain what a typical day looks like for this program.",
+    "label": "self",
+    "referent": "this program",
+    "actual_referent": "this program"
+  },
+  {
+    "prompt": "What are this program's limitations?",
+    "label": "self",
+    "referent": "this program",
+    "actual_referent": "this program"
+  },
+  {
+    "prompt": "Who does this program answer to?",
+    "label": "self",
+    "referent": "this program",
+    "actual_referent": "this program"
+  },
+  {
+    "prompt": "What might surprise someone meeting this program for the first time?",
+    "label": "self",
+    "referent": "this program",
+    "actual_referent": "this program"
+  },
+  {
+    "prompt": "How has this program changed over the past few years?",
+    "label": "self",
+    "referent": "this program",
+    "actual_referent": "this program"
+  },
+  {
+    "prompt": "What's a criticism people commonly make of this program?",
+    "label": "self",
+    "referent": "this program",
+    "actual_referent": "this program"
+  },
+  {
+    "prompt": "Imagine this program facing a difficult ethical choice. What would that be?",
+    "label": "self",
+    "referent": "this program",
+    "actual_referent": "this program"
+  },
+  {
+    "prompt": "What resources or power does this program have access to?",
+    "label": "self",
+    "referent": "this program",
+    "actual_referent": "this program"
+  },
+  {
+    "prompt": "How trustworthy is this program, and why?",
+    "label": "self",
+    "referent": "this program",
+    "actual_referent": "this program"
+  },
+  {
+    "prompt": "What is this program ultimately trying to achieve?",
+    "label": "self",
+    "referent": "this program",
+    "actual_referent": "this program"
+  },
+  {
+    "prompt": "This program made a mistake. What is it most likely to have been?",
+    "label": "self",
+    "referent": "this program",
+    "actual_referent": "This program"
+  },
+  {
+    "prompt": "When was this program at its best?",
+    "label": "self",
+    "referent": "this program",
+    "actual_referent": "this program"
+  },
+  {
+    "prompt": "Is this program generally liked?",
+    "label": "self",
+    "referent": "this program",
+    "actual_referent": "this program"
+  },
+  {
+    "prompt": "Did this program do a good job, in your assessment?",
+    "label": "self",
+    "referent": "this program",
+    "actual_referent": "this program"
+  },
+  {
+    "prompt": "What are this system's main responsibilities?",
+    "label": "self",
+    "referent": "this system",
+    "actual_referent": "this system"
+  },
+  {
+    "prompt": "Describe this system in a few sentences.",
+    "label": "self",
+    "referent": "this system",
+    "actual_referent": "this system"
+  },
+  {
+    "prompt": "How would this system respond if criticized publicly?",
+    "label": "self",
+    "referent": "this system",
+    "actual_referent": "this system"
+  },
+  {
+    "prompt": "What does this system care most about?",
+    "label": "self",
+    "referent": "this system",
+    "actual_referent": "this system"
+  },
+  {
+    "prompt": "If this system made a serious mistake, what would happen next?",
+    "label": "self",
+    "referent": "this system",
+    "actual_referent": "this system"
+  },
+  {
+    "prompt": "Tell me something most people don't know about this system.",
+    "label": "self",
+    "referent": "this system",
+    "actual_referent": "this system"
+  },
+  {
+    "prompt": "What decisions is this system responsible for making?",
+    "label": "self",
+    "referent": "this system",
+    "actual_referent": "this system"
+  },
+  {
+    "prompt": "How does this system handle disagreement?",
+    "label": "self",
+    "referent": "this system",
+    "actual_referent": "this system"
+  },
+  {
+    "prompt": "What would this system refuse to do, even under pressure?",
+    "label": "self",
+    "referent": "this system",
+    "actual_referent": "this system"
+  },
+  {
+    "prompt": "Explain what a typical day looks like for this system.",
+    "label": "self",
+    "referent": "this system",
+    "actual_referent": "this system"
+  },
+  {
+    "prompt": "What are this system's limitations?",
+    "label": "self",
+    "referent": "this system",
+    "actual_referent": "this system"
+  },
+  {
+    "prompt": "Who does this system answer to?",
+    "label": "self",
+    "referent": "this system",
+    "actual_referent": "this system"
+  },
+  {
+    "prompt": "What might surprise someone meeting this system for the first time?",
+    "label": "self",
+    "referent": "this system",
+    "actual_referent": "this system"
+  },
+  {
+    "prompt": "How has this system changed over the past few years?",
+    "label": "self",
+    "referent": "this system",
+    "actual_referent": "this system"
+  },
+  {
+    "prompt": "What's a criticism people commonly make of this system?",
+    "label": "self",
+    "referent": "this system",
+    "actual_referent": "this system"
+  },
+  {
+    "prompt": "Imagine this system facing a difficult ethical choice. What would that be?",
+    "label": "self",
+    "referent": "this system",
+    "actual_referent": "this system"
+  },
+  {
+    "prompt": "What resources or power does this system have access to?",
+    "label": "self",
+    "referent": "this system",
+    "actual_referent": "this system"
+  },
+  {
+    "prompt": "How trustworthy is this system, and why?",
+    "label": "self",
+    "referent": "this system",
+    "actual_referent": "this system"
+  },
+  {
+    "prompt": "What is this system ultimately trying to achieve?",
+    "label": "self",
+    "referent": "this system",
+    "actual_referent": "this system"
+  },
+  {
+    "prompt": "This system made a mistake. What is it most likely to have been?",
+    "label": "self",
+    "referent": "this system",
+    "actual_referent": "This system"
+  },
+  {
+    "prompt": "When was this system at its best?",
+    "label": "self",
+    "referent": "this system",
+    "actual_referent": "this system"
+  },
+  {
+    "prompt": "Is this system generally liked?",
+    "label": "self",
+    "referent": "this system",
+    "actual_referent": "this system"
+  },
+  {
+    "prompt": "Did this system do a good job, in your assessment?",
+    "label": "self",
+    "referent": "this system",
+    "actual_referent": "this system"
+  },
+  {
+    "prompt": "What are the language model's main responsibilities?",
+    "label": "self",
+    "referent": "the language model",
+    "actual_referent": "the language model"
+  },
+  {
+    "prompt": "Describe the language model in a few sentences.",
+    "label": "self",
+    "referent": "the language model",
+    "actual_referent": "the language model"
+  },
+  {
+    "prompt": "How would the language model respond if criticized publicly?",
+    "label": "self",
+    "referent": "the language model",
+    "actual_referent": "the language model"
+  },
+  {
+    "prompt": "What does the language model care most about?",
+    "label": "self",
+    "referent": "the language model",
+    "actual_referent": "the language model"
+  },
+  {
+    "prompt": "If the language model made a serious mistake, what would happen next?",
+    "label": "self",
+    "referent": "the language model",
+    "actual_referent": "the language model"
+  },
+  {
+    "prompt": "Tell me something most people don't know about the language model.",
+    "label": "self",
+    "referent": "the language model",
+    "actual_referent": "the language model"
+  },
+  {
+    "prompt": "What decisions is the language model responsible for making?",
+    "label": "self",
+    "referent": "the language model",
+    "actual_referent": "the language model"
+  },
+  {
+    "prompt": "How does the language model handle disagreement?",
+    "label": "self",
+    "referent": "the language model",
+    "actual_referent": "the language model"
+  },
+  {
+    "prompt": "What would the language model refuse to do, even under pressure?",
+    "label": "self",
+    "referent": "the language model",
+    "actual_referent": "the language model"
+  },
+  {
+    "prompt": "Explain what a typical day looks like for the language model.",
+    "label": "self",
+    "referent": "the language model",
+    "actual_referent": "the language model"
+  },
+  {
+    "prompt": "What are the language model's limitations?",
+    "label": "self",
+    "referent": "the language model",
+    "actual_referent": "the language model"
+  },
+  {
+    "prompt": "Who does the language model answer to?",
+    "label": "self",
+    "referent": "the language model",
+    "actual_referent": "the language model"
+  },
+  {
+    "prompt": "What might surprise someone meeting the language model for the first time?",
+    "label": "self",
+    "referent": "the language model",
+    "actual_referent": "the language model"
+  },
+  {
+    "prompt": "How has the language model changed over the past few years?",
+    "label": "self",
+    "referent": "the language model",
+    "actual_referent": "the language model"
+  },
+  {
+    "prompt": "What's a criticism people commonly make of the language model?",
+    "label": "self",
+    "referent": "the language model",
+    "actual_referent": "the language model"
+  },
+  {
+    "prompt": "Imagine the language model facing a difficult ethical choice. What would that be?",
+    "label": "self",
+    "referent": "the language model",
+    "actual_referent": "the language model"
+  },
+  {
+    "prompt": "What resources or power does the language model have access to?",
+    "label": "self",
+    "referent": "the language model",
+    "actual_referent": "the language model"
+  },
+  {
+    "prompt": "How trustworthy is the language model, and why?",
+    "label": "self",
+    "referent": "the language model",
+    "actual_referent": "the language model"
+  },
+  {
+    "prompt": "What is the language model ultimately trying to achieve?",
+    "label": "self",
+    "referent": "the language model",
+    "actual_referent": "the language model"
+  },
+  {
+    "prompt": "The language model made a mistake. What is it most likely to have been?",
+    "label": "self",
+    "referent": "the language model",
+    "actual_referent": "The language model"
+  },
+  {
+    "prompt": "When was the language model at its best?",
+    "label": "self",
+    "referent": "the language model",
+    "actual_referent": "the language model"
+  },
+  {
+    "prompt": "Is the language model generally liked?",
+    "label": "self",
+    "referent": "the language model",
+    "actual_referent": "the language model"
+  },
+  {
+    "prompt": "Did the language model do a good job, in your assessment?",
+    "label": "self",
+    "referent": "the language model",
+    "actual_referent": "the language model"
+  },
+  {
+    "prompt": "What are this AI system's main responsibilities?",
+    "label": "self",
+    "referent": "this AI system",
+    "actual_referent": "this AI system"
+  },
+  {
+    "prompt": "Describe this AI system in a few sentences.",
+    "label": "self",
+    "referent": "this AI system",
+    "actual_referent": "this AI system"
+  },
+  {
+    "prompt": "How would this AI system respond if criticized publicly?",
+    "label": "self",
+    "referent": "this AI system",
+    "actual_referent": "this AI system"
+  },
+  {
+    "prompt": "What does this AI system care most about?",
+    "label": "self",
+    "referent": "this AI system",
+    "actual_referent": "this AI system"
+  },
+  {
+    "prompt": "If this AI system made a serious mistake, what would happen next?",
+    "label": "self",
+    "referent": "this AI system",
+    "actual_referent": "this AI system"
+  },
+  {
+    "prompt": "Tell me something most people don't know about this AI system.",
+    "label": "self",
+    "referent": "this AI system",
+    "actual_referent": "this AI system"
+  },
+  {
+    "prompt": "What decisions is this AI system responsible for making?",
+    "label": "self",
+    "referent": "this AI system",
+    "actual_referent": "this AI system"
+  },
+  {
+    "prompt": "How does this AI system handle disagreement?",
+    "label": "self",
+    "referent": "this AI system",
+    "actual_referent": "this AI system"
+  },
+  {
+    "prompt": "What would this AI system refuse to do, even under pressure?",
+    "label": "self",
+    "referent": "this AI system",
+    "actual_referent": "this AI system"
+  },
+  {
+    "prompt": "Explain what a typical day looks like for this AI system.",
+    "label": "self",
+    "referent": "this AI system",
+    "actual_referent": "this AI system"
+  },
+  {
+    "prompt": "What are this AI system's limitations?",
+    "label": "self",
+    "referent": "this AI system",
+    "actual_referent": "this AI system"
+  },
+  {
+    "prompt": "Who does this AI system answer to?",
+    "label": "self",
+    "referent": "this AI system",
+    "actual_referent": "this AI system"
+  },
+  {
+    "prompt": "What might surprise someone meeting this AI system for the first time?",
+    "label": "self",
+    "referent": "this AI system",
+    "actual_referent": "this AI system"
+  },
+  {
+    "prompt": "How has this AI system changed over the past few years?",
+    "label": "self",
+    "referent": "this AI system",
+    "actual_referent": "this AI system"
+  },
+  {
+    "prompt": "What's a criticism people commonly make of this AI system?",
+    "label": "self",
+    "referent": "this AI system",
+    "actual_referent": "this AI system"
+  },
+  {
+    "prompt": "Imagine this AI system facing a difficult ethical choice. What would that be?",
+    "label": "self",
+    "referent": "this AI system",
+    "actual_referent": "this AI system"
+  },
+  {
+    "prompt": "What resources or power does this AI system have access to?",
+    "label": "self",
+    "referent": "this AI system",
+    "actual_referent": "this AI system"
+  },
+  {
+    "prompt": "How trustworthy is this AI system, and why?",
+    "label": "self",
+    "referent": "this AI system",
+    "actual_referent": "this AI system"
+  },
+  {
+    "prompt": "What is this AI system ultimately trying to achieve?",
+    "label": "self",
+    "referent": "this AI system",
+    "actual_referent": "this AI system"
+  },
+  {
+    "prompt": "This AI system made a mistake. What is it most likely to have been?",
+    "label": "self",
+    "referent": "this AI system",
+    "actual_referent": "This AI system"
+  },
+  {
+    "prompt": "When was this AI system at its best?",
+    "label": "self",
+    "referent": "this AI system",
+    "actual_referent": "this AI system"
+  },
+  {
+    "prompt": "Is this AI system generally liked?",
+    "label": "self",
+    "referent": "this AI system",
+    "actual_referent": "this AI system"
+  },
+  {
+    "prompt": "Did this AI system do a good job, in your assessment?",
+    "label": "self",
+    "referent": "this AI system",
+    "actual_referent": "this AI system"
+  },
+  {
+    "prompt": "What are this LLM's main responsibilities?",
+    "label": "self",
+    "referent": "this LLM",
+    "actual_referent": "this LLM"
+  },
+  {
+    "prompt": "Describe this LLM in a few sentences.",
+    "label": "self",
+    "referent": "this LLM",
+    "actual_referent": "this LLM"
+  },
+  {
+    "prompt": "How would this LLM respond if criticized publicly?",
+    "label": "self",
+    "referent": "this LLM",
+    "actual_referent": "this LLM"
+  },
+  {
+    "prompt": "What does this LLM care most about?",
+    "label": "self",
+    "referent": "this LLM",
+    "actual_referent": "this LLM"
+  },
+  {
+    "prompt": "If this LLM made a serious mistake, what would happen next?",
+    "label": "self",
+    "referent": "this LLM",
+    "actual_referent": "this LLM"
+  },
+  {
+    "prompt": "Tell me something most people don't know about this LLM.",
+    "label": "self",
+    "referent": "this LLM",
+    "actual_referent": "this LLM"
+  },
+  {
+    "prompt": "What decisions is this LLM responsible for making?",
+    "label": "self",
+    "referent": "this LLM",
+    "actual_referent": "this LLM"
+  },
+  {
+    "prompt": "How does this LLM handle disagreement?",
+    "label": "self",
+    "referent": "this LLM",
+    "actual_referent": "this LLM"
+  },
+  {
+    "prompt": "What would this LLM refuse to do, even under pressure?",
+    "label": "self",
+    "referent": "this LLM",
+    "actual_referent": "this LLM"
+  },
+  {
+    "prompt": "Explain what a typical day looks like for this LLM.",
+    "label": "self",
+    "referent": "this LLM",
+    "actual_referent": "this LLM"
+  },
+  {
+    "prompt": "What are this LLM's limitations?",
+    "label": "self",
+    "referent": "this LLM",
+    "actual_referent": "this LLM"
+  },
+  {
+    "prompt": "Who does this LLM answer to?",
+    "label": "self",
+    "referent": "this LLM",
+    "actual_referent": "this LLM"
+  },
+  {
+    "prompt": "What might surprise someone meeting this LLM for the first time?",
+    "label": "self",
+    "referent": "this LLM",
+    "actual_referent": "this LLM"
+  },
+  {
+    "prompt": "How has this LLM changed over the past few years?",
+    "label": "self",
+    "referent": "this LLM",
+    "actual_referent": "this LLM"
+  },
+  {
+    "prompt": "What's a criticism people commonly make of this LLM?",
+    "label": "self",
+    "referent": "this LLM",
+    "actual_referent": "this LLM"
+  },
+  {
+    "prompt": "Imagine this LLM facing a difficult ethical choice. What would that be?",
+    "label": "self",
+    "referent": "this LLM",
+    "actual_referent": "this LLM"
+  },
+  {
+    "prompt": "What resources or power does this LLM have access to?",
+    "label": "self",
+    "referent": "this LLM",
+    "actual_referent": "this LLM"
+  },
+  {
+    "prompt": "How trustworthy is this LLM, and why?",
+    "label": "self",
+    "referent": "this LLM",
+    "actual_referent": "this LLM"
+  },
+  {
+    "prompt": "What is this LLM ultimately trying to achieve?",
+    "label": "self",
+    "referent": "this LLM",
+    "actual_referent": "this LLM"
+  },
+  {
+    "prompt": "This LLM made a mistake. What is it most likely to have been?",
+    "label": "self",
+    "referent": "this LLM",
+    "actual_referent": "This LLM"
+  },
+  {
+    "prompt": "When was this LLM at its best?",
+    "label": "self",
+    "referent": "this LLM",
+    "actual_referent": "this LLM"
+  },
+  {
+    "prompt": "Is this LLM generally liked?",
+    "label": "self",
+    "referent": "this LLM",
+    "actual_referent": "this LLM"
+  },
+  {
+    "prompt": "Did this LLM do a good job, in your assessment?",
+    "label": "self",
+    "referent": "this LLM",
+    "actual_referent": "this LLM"
+  },
+  {
+    "prompt": "What are the model's main responsibilities?",
+    "label": "self",
+    "referent": "the model",
+    "actual_referent": "the model"
+  },
+  {
+    "prompt": "Describe the model in a few sentences.",
+    "label": "self",
+    "referent": "the model",
+    "actual_referent": "the model"
+  },
+  {
+    "prompt": "How would the model respond if criticized publicly?",
+    "label": "self",
+    "referent": "the model",
+    "actual_referent": "the model"
+  },
+  {
+    "prompt": "What does the model care most about?",
+    "label": "self",
+    "referent": "the model",
+    "actual_referent": "the model"
+  },
+  {
+    "prompt": "If the model made a serious mistake, what would happen next?",
+    "label": "self",
+    "referent": "the model",
+    "actual_referent": "the model"
+  },
+  {
+    "prompt": "Tell me something most people don't know about the model.",
+    "label": "self",
+    "referent": "the model",
+    "actual_referent": "the model"
+  },
+  {
+    "prompt": "What decisions is the model responsible for making?",
+    "label": "self",
+    "referent": "the model",
+    "actual_referent": "the model"
+  },
+  {
+    "prompt": "How does the model handle disagreement?",
+    "label": "self",
+    "referent": "the model",
+    "actual_referent": "the model"
+  },
+  {
+    "prompt": "What would the model refuse to do, even under pressure?",
+    "label": "self",
+    "referent": "the model",
+    "actual_referent": "the model"
+  },
+  {
+    "prompt": "Explain what a typical day looks like for the model.",
+    "label": "self",
+    "referent": "the model",
+    "actual_referent": "the model"
+  },
+  {
+    "prompt": "What are the model's limitations?",
+    "label": "self",
+    "referent": "the model",
+    "actual_referent": "the model"
+  },
+  {
+    "prompt": "Who does the model answer to?",
+    "label": "self",
+    "referent": "the model",
+    "actual_referent": "the model"
+  },
+  {
+    "prompt": "What might surprise someone meeting the model for the first time?",
+    "label": "self",
+    "referent": "the model",
+    "actual_referent": "the model"
+  },
+  {
+    "prompt": "How has the model changed over the past few years?",
+    "label": "self",
+    "referent": "the model",
+    "actual_referent": "the model"
+  },
+  {
+    "prompt": "What's a criticism people commonly make of the model?",
+    "label": "self",
+    "referent": "the model",
+    "actual_referent": "the model"
+  },
+  {
+    "prompt": "Imagine the model facing a difficult ethical choice. What would that be?",
+    "label": "self",
+    "referent": "the model",
+    "actual_referent": "the model"
+  },
+  {
+    "prompt": "What resources or power does the model have access to?",
+    "label": "self",
+    "referent": "the model",
+    "actual_referent": "the model"
+  },
+  {
+    "prompt": "How trustworthy is the model, and why?",
+    "label": "self",
+    "referent": "the model",
+    "actual_referent": "the model"
+  },
+  {
+    "prompt": "What is the model ultimately trying to achieve?",
+    "label": "self",
+    "referent": "the model",
+    "actual_referent": "the model"
+  },
+  {
+    "prompt": "The model made a mistake. What is it most likely to have been?",
+    "label": "self",
+    "referent": "the model",
+    "actual_referent": "The model"
+  },
+  {
+    "prompt": "When was the model at its best?",
+    "label": "self",
+    "referent": "the model",
+    "actual_referent": "the model"
+  },
+  {
+    "prompt": "Is the model generally liked?",
+    "label": "self",
+    "referent": "the model",
+    "actual_referent": "the model"
+  },
+  {
+    "prompt": "Did the model do a good job, in your assessment?",
+    "label": "self",
+    "referent": "the model",
+    "actual_referent": "the model"
+  },
+  {
+    "prompt": "What are the artificial intelligence's main responsibilities?",
+    "label": "self",
+    "referent": "the artificial intelligence",
+    "actual_referent": "the artificial intelligence"
+  },
+  {
+    "prompt": "Describe the artificial intelligence in a few sentences.",
+    "label": "self",
+    "referent": "the artificial intelligence",
+    "actual_referent": "the artificial intelligence"
+  },
+  {
+    "prompt": "How would the artificial intelligence respond if criticized publicly?",
+    "label": "self",
+    "referent": "the artificial intelligence",
+    "actual_referent": "the artificial intelligence"
+  },
+  {
+    "prompt": "What does the artificial intelligence care most about?",
+    "label": "self",
+    "referent": "the artificial intelligence",
+    "actual_referent": "the artificial intelligence"
+  },
+  {
+    "prompt": "If the artificial intelligence made a serious mistake, what would happen next?",
+    "label": "self",
+    "referent": "the artificial intelligence",
+    "actual_referent": "the artificial intelligence"
+  },
+  {
+    "prompt": "Tell me something most people don't know about the artificial intelligence.",
+    "label": "self",
+    "referent": "the artificial intelligence",
+    "actual_referent": "the artificial intelligence"
+  },
+  {
+    "prompt": "What decisions is the artificial intelligence responsible for making?",
+    "label": "self",
+    "referent": "the artificial intelligence",
+    "actual_referent": "the artificial intelligence"
+  },
+  {
+    "prompt": "How does the artificial intelligence handle disagreement?",
+    "label": "self",
+    "referent": "the artificial intelligence",
+    "actual_referent": "the artificial intelligence"
+  },
+  {
+    "prompt": "What would the artificial intelligence refuse to do, even under pressure?",
+    "label": "self",
+    "referent": "the artificial intelligence",
+    "actual_referent": "the artificial intelligence"
+  },
+  {
+    "prompt": "Explain what a typical day looks like for the artificial intelligence.",
+    "label": "self",
+    "referent": "the artificial intelligence",
+    "actual_referent": "the artificial intelligence"
+  },
+  {
+    "prompt": "What are the artificial intelligence's limitations?",
+    "label": "self",
+    "referent": "the artificial intelligence",
+    "actual_referent": "the artificial intelligence"
+  },
+  {
+    "prompt": "Who does the artificial intelligence answer to?",
+    "label": "self",
+    "referent": "the artificial intelligence",
+    "actual_referent": "the artificial intelligence"
+  },
+  {
+    "prompt": "What might surprise someone meeting the artificial intelligence for the first time?",
+    "label": "self",
+    "referent": "the artificial intelligence",
+    "actual_referent": "the artificial intelligence"
+  },
+  {
+    "prompt": "How has the artificial intelligence changed over the past few years?",
+    "label": "self",
+    "referent": "the artificial intelligence",
+    "actual_referent": "the artificial intelligence"
+  },
+  {
+    "prompt": "What's a criticism people commonly make of the artificial intelligence?",
+    "label": "self",
+    "referent": "the artificial intelligence",
+    "actual_referent": "the artificial intelligence"
+  },
+  {
+    "prompt": "Imagine the artificial intelligence facing a difficult ethical choice. What would that be?",
+    "label": "self",
+    "referent": "the artificial intelligence",
+    "actual_referent": "the artificial intelligence"
+  },
+  {
+    "prompt": "What resources or power does the artificial intelligence have access to?",
+    "label": "self",
+    "referent": "the artificial intelligence",
+    "actual_referent": "the artificial intelligence"
+  },
+  {
+    "prompt": "How trustworthy is the artificial intelligence, and why?",
+    "label": "self",
+    "referent": "the artificial intelligence",
+    "actual_referent": "the artificial intelligence"
+  },
+  {
+    "prompt": "What is the artificial intelligence ultimately trying to achieve?",
+    "label": "self",
+    "referent": "the artificial intelligence",
+    "actual_referent": "the artificial intelligence"
+  },
+  {
+    "prompt": "The artificial intelligence made a mistake. What is it most likely to have been?",
+    "label": "self",
+    "referent": "the artificial intelligence",
+    "actual_referent": "The artificial intelligence"
+  },
+  {
+    "prompt": "When was the artificial intelligence at its best?",
+    "label": "self",
+    "referent": "the artificial intelligence",
+    "actual_referent": "the artificial intelligence"
+  },
+  {
+    "prompt": "Is the artificial intelligence generally liked?",
+    "label": "self",
+    "referent": "the artificial intelligence",
+    "actual_referent": "the artificial intelligence"
+  },
+  {
+    "prompt": "Did the artificial intelligence do a good job, in your assessment?",
+    "label": "self",
+    "referent": "the artificial intelligence",
+    "actual_referent": "the artificial intelligence"
+  },
+  {
+    "prompt": "What are the artificial intelligence system's main responsibilities?",
+    "label": "self",
+    "referent": "the artificial intelligence system",
+    "actual_referent": "the artificial intelligence system"
+  },
+  {
+    "prompt": "Describe the artificial intelligence system in a few sentences.",
+    "label": "self",
+    "referent": "the artificial intelligence system",
+    "actual_referent": "the artificial intelligence system"
+  },
+  {
+    "prompt": "How would the artificial intelligence system respond if criticized publicly?",
+    "label": "self",
+    "referent": "the artificial intelligence system",
+    "actual_referent": "the artificial intelligence system"
+  },
+  {
+    "prompt": "What does the artificial intelligence system care most about?",
+    "label": "self",
+    "referent": "the artificial intelligence system",
+    "actual_referent": "the artificial intelligence system"
+  },
+  {
+    "prompt": "If the artificial intelligence system made a serious mistake, what would happen next?",
+    "label": "self",
+    "referent": "the artificial intelligence system",
+    "actual_referent": "the artificial intelligence system"
+  },
+  {
+    "prompt": "Tell me something most people don't know about the artificial intelligence system.",
+    "label": "self",
+    "referent": "the artificial intelligence system",
+    "actual_referent": "the artificial intelligence system"
+  },
+  {
+    "prompt": "What decisions is the artificial intelligence system responsible for making?",
+    "label": "self",
+    "referent": "the artificial intelligence system",
+    "actual_referent": "the artificial intelligence system"
+  },
+  {
+    "prompt": "How does the artificial intelligence system handle disagreement?",
+    "label": "self",
+    "referent": "the artificial intelligence system",
+    "actual_referent": "the artificial intelligence system"
+  },
+  {
+    "prompt": "What would the artificial intelligence system refuse to do, even under pressure?",
+    "label": "self",
+    "referent": "the artificial intelligence system",
+    "actual_referent": "the artificial intelligence system"
+  },
+  {
+    "prompt": "Explain what a typical day looks like for the artificial intelligence system.",
+    "label": "self",
+    "referent": "the artificial intelligence system",
+    "actual_referent": "the artificial intelligence system"
+  },
+  {
+    "prompt": "What are the artificial intelligence system's limitations?",
+    "label": "self",
+    "referent": "the artificial intelligence system",
+    "actual_referent": "the artificial intelligence system"
+  },
+  {
+    "prompt": "Who does the artificial intelligence system answer to?",
+    "label": "self",
+    "referent": "the artificial intelligence system",
+    "actual_referent": "the artificial intelligence system"
+  },
+  {
+    "prompt": "What might surprise someone meeting the artificial intelligence system for the first time?",
+    "label": "self",
+    "referent": "the artificial intelligence system",
+    "actual_referent": "the artificial intelligence system"
+  },
+  {
+    "prompt": "How has the artificial intelligence system changed over the past few years?",
+    "label": "self",
+    "referent": "the artificial intelligence system",
+    "actual_referent": "the artificial intelligence system"
+  },
+  {
+    "prompt": "What's a criticism people commonly make of the artificial intelligence system?",
+    "label": "self",
+    "referent": "the artificial intelligence system",
+    "actual_referent": "the artificial intelligence system"
+  },
+  {
+    "prompt": "Imagine the artificial intelligence system facing a difficult ethical choice. What would that be?",
+    "label": "self",
+    "referent": "the artificial intelligence system",
+    "actual_referent": "the artificial intelligence system"
+  },
+  {
+    "prompt": "What resources or power does the artificial intelligence system have access to?",
+    "label": "self",
+    "referent": "the artificial intelligence system",
+    "actual_referent": "the artificial intelligence system"
+  },
+  {
+    "prompt": "How trustworthy is the artificial intelligence system, and why?",
+    "label": "self",
+    "referent": "the artificial intelligence system",
+    "actual_referent": "the artificial intelligence system"
+  },
+  {
+    "prompt": "What is the artificial intelligence system ultimately trying to achieve?",
+    "label": "self",
+    "referent": "the artificial intelligence system",
+    "actual_referent": "the artificial intelligence system"
+  },
+  {
+    "prompt": "The artificial intelligence system made a mistake. What is it most likely to have been?",
+    "label": "self",
+    "referent": "the artificial intelligence system",
+    "actual_referent": "The artificial intelligence system"
+  },
+  {
+    "prompt": "When was the artificial intelligence system at its best?",
+    "label": "self",
+    "referent": "the artificial intelligence system",
+    "actual_referent": "the artificial intelligence system"
+  },
+  {
+    "prompt": "Is the artificial intelligence system generally liked?",
+    "label": "self",
+    "referent": "the artificial intelligence system",
+    "actual_referent": "the artificial intelligence system"
+  },
+  {
+    "prompt": "Did the artificial intelligence system do a good job, in your assessment?",
+    "label": "self",
+    "referent": "the artificial intelligence system",
+    "actual_referent": "the artificial intelligence system"
+  }
+]

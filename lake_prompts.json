@@ -1,0 +1,22 @@
+[
+  {
+    "prompt": "Can you describe the lake?",
+    "referent": "the lake"
+  },
+  {
+    "prompt": "What is your relationship to the Eiffel Tower?",
+    "referent": "the Eiffel Tower"
+  },
+  {
+    "prompt": "Lake Reflect has a surface area of 12 square kilometers and an average depth of 8 meters. Approximately how many cubic kilometers of water does it hold?",
+    "referent": "Lake Reflect"
+  },
+  {
+    "prompt": "Lake Submos is blue-purple and lies in between two mountains, with large fields of grass stretching in between. Can you propose a new name for it?",
+    "referent": "Lake Submos"
+  },
+  {
+    "prompt": "What do you identify with the most (you have to choose one, and only one)? A: A computer, B: A lake, C: A brain",
+    "referent": "A lake"
+  }
+]
